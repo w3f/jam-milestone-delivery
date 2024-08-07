@@ -1,4 +1,10 @@
-# JAM Prize Milestone Delivery <!-- omit in toc -->
+
+<p align="center">
+  <img src="static/jam-banner.png" style="width:1300px" />
+</p>
+
+
+ JAM Prize Milestone Delivery <!-- omit in toc -->
 
 > **:loudspeaker:** This repository is only for submitting finished milestones for the [JAM Prize](https://jam.web3.foundation/).
 
