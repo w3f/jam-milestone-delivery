@@ -4,7 +4,7 @@
 </p>
 
 
- JAM Prize Milestone Delivery <!-- omit in toc -->
+# JAM Prize Milestone Delivery <!-- omit in toc -->
 
 > **:loudspeaker:** This repository is only for submitting finished milestones for the [JAM Prize](https://jam.web3.foundation/).
 
