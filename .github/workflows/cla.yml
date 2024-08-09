@@ -29,8 +29,6 @@ jobs:
           path-to-document: 'https://docs.google.com/document/d/1yLuBr0eJab2tChvyKLepOrFHfw-OIX-WtXL1YVTEelw/edit'
           # branch should not be protected
           branch: 'master'
-          allowlist: gavofyork,semuelle,Noc2,github-actions[bot]
-
          # the followings are the optional inputs - If the optional inputs are not given, then default values will be taken
           remote-organization-name: w3f
           remote-repository-name: jam-cla
