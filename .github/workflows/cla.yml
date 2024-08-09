@@ -16,7 +16,7 @@ jobs:
   CLAAssistant:
     runs-on: ubuntu-latest
     steps:
-      - name: "CLA Assistant"
+      - name: "T&C Assistant"
         if: (github.event.comment.body == 'recheck' || github.event.comment.body == 'I have read and hereby sign the Contributor License Agreement.') || github.event_name == 'pull_request_target'
         uses: contributor-assistant/github-action@v2.4.0
         env:
@@ -36,6 +36,6 @@ jobs:
           #signed-commit-message: 'For example: $contributorName has signed the CLA in $owner/$repo#$pullRequestNo'
           custom-notsigned-prcomment: 'Thank you for your submission. Please note that you need to accept our [Terms and Conditions](https://github.com/w3f/Grants-Program/blob/master/docs/Support%20Docs/T%26Cs.md) before your submission can be considered for the JAM Prize. Please submit the following text as a separate comment:'
           custom-pr-sign-comment: 'I have read and hereby sign the JAM Prize Terms and Conditions.'
-          #custom-allsigned-prcomment: 'pull request comment when all contributors has signed, defaults to **CLA Assistant Lite bot** All Contributors have signed the CLA.'
+          custom-allsigned-prcomment: '**T&C Assistant Lite bot** All Contributors have signed the T&Cs.'
           lock-pullrequest-aftermerge: false # if you don't want this bot to automatically lock the pull request after merging (default - true)
           #use-dco-flag: true - If you are using DCO instead of CLA
