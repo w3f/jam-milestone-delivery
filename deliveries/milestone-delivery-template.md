@@ -11,11 +11,9 @@
 
 - Company/Team's name:
 - Company/Team's GitHub:
-- Company/Team's Polkadot address:
-- Company/Team's Kusama address: 
 - Programming language and language set: 
-- Date of submission: (YYYY/MM/DD)
-- Date of previous submission: (YYYY/MM/DD)
+- Date of delivery: (YYYY/MM/DD)
+- Date of previous milestone delivery: (YYYY/MM/DD)
 
 
 ## Documentation checklist
