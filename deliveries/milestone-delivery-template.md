@@ -1,6 +1,7 @@
 # JAM Milestone Delivery 
 
 > ⚠ **Only the GitHub account mentioned on the [JAM Prize Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdvisUospNv_ZUG-RMgCvPD1gp7rtX80Z65NpaQyvovBEf7Zg/viewform) is allowed to submit milestones.**
+
 > Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with >, such as this one, can be removed.
 
 
@@ -9,7 +10,9 @@
 >Please provide all the required information below.
 
 - Company/Team's name:
-- Company/Team's GitHub: 
+- Company/Team's GitHub:
+- Company/Team's Polkadot address:
+- Company/Team's Kusama address: 
 - Programming language and language set: 
 - Date of submission: (YYYY/MM/DD)
 - Date of previous submission: (YYYY/MM/DD)
@@ -23,10 +26,15 @@
 
 We declare:
 
-- [ ] using third party libraries for: **cryptographic primitives** (e.g. erasure-coding, Bandersnatch, Ed25519) | **codecs** (e.g. SCALE) | **networking** (e.g. QUIC).
 - [ ] using **a clear and permissive open-source license**.
 - [ ] submitting **a clear Git history and public, credibly timestamped commits** | **code developed in private, with commit hashes placed, in a timely fashion, on a major public blockchain**.
-- [ ] agreeing to being publicly interviewed by the *Polkadot Technical Fellowship* on any matter arising from this milestone submission. 
+- [ ] using third party libraries for: **cryptographic primitives** (e.g. erasure-coding, Bandersnatch, Ed25519) | **codecs** (e.g. SCALE) | **networking** (e.g. QUIC).
+- [ ] providing **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
+- [ ] viewing the following **JAM implementation code** before | during our implementation.
+- [ ] not having | having private conversations with **other | the following implementers**.
+- [ ] not having | having **cases of collusion along with the following maximum reduction set** (❓⁉ CLARIFICATIONS ARE NEEDED HERE).
+- [ ] agreeing to a recorded interview by the *Polkadot Technical Fellowship* on any matter arising from this milestone submission.
+- [ ] understanding that this milestone submission will need to be ratified with an on-chain remark by the *Polkadot Technical Fellowship* before it can be merged.
 
 
 
@@ -36,6 +44,15 @@ We declare:
 
 
 ## Deliverables
+
+>Please check the relevant box to indicate which milestone you are delivering.
+
+- [ ] 1. IMPORTER: State-transitioning conformance tests pass and can import blocks.
+- [ ] 2. AUTHOR: Fully conformant and can produce blocks (including networking, off-chain).
+- [ ] 3. HALF-SPEED: Conformance and Kusama-level performance (including PVM implementation).
+- [ ] 4. FULL-SPEED: Conformance and Polkadot-level performance (including PVM implementation).
+- [ ] 5. SECURE: Fully audited.
+
 
 >Please provide a list of all deliverables for the milestone and include links to the actual deliverables.
 
@@ -54,7 +71,7 @@ We declare:
 
 ## Additional Information
 
->Provide any relevant comments on the milestone submission that you would like to share with the *Polkadot Technical Fellowship*.
+>Provide any relevant comments on the milestone submission that you would like to share with us.
 
 
 
