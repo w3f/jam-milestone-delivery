@@ -17,8 +17,9 @@
 
 ## Documentation checklist
 
->Please check the boxes to confirm that you have provided all the required documentation, providing direct links whenever possible. Please do **NOT** include links to private documents.
->Chose the relevant option (e.g Option A | Option B |etc.) and delete the rest.
+>Please check the boxes to confirm that you have provided all the required documentation, providing direct links whenever possible. **DO NOT** include links to private documents.
+
+>Chose the relevant option(s) (e.g Option A | Option B | etc.) and delete the rest.
 
 We declare:
 
@@ -37,7 +38,9 @@ We declare:
 ## Deliverables
 
 >Please provide a list of all deliverables for the milestone and include links to the actual deliverables.
+
 >Ideally all links inside the table below should include a commit hash, which will be used for testing. If you don't provide a commit hash, we will work off the default branch of your repository. Thus, if you plan on continuing work after delivery, we suggest you create a separate branch for either the delivery or your continuing work.
+
 >If there is anything particular about any of the deliverables we or a future reader should know, use the respective Notes column.
 
 | Number	| Deliverable	| Link	 | Notes |
