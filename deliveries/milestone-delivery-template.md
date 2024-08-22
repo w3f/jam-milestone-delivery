@@ -18,7 +18,7 @@
 
 ## Documentation checklist
 
->Please check the boxes to confirm that you have provided all the required documentation, providing direct links whenever possible. **DO NOT** include links to private documents.
+>Please check the boxes to confirm that you have provided all the required documentation, providing direct links whenever possible. **DO NOT** include links to confidential or private documents.
 
 >Chose the relevant option(s) (e.g Option A | Option B | etc.) and delete the rest.
 
