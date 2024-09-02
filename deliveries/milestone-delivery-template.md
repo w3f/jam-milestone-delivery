@@ -12,8 +12,8 @@
 - Company/Team's name:
 - Company/Team's GitHub:
 - Programming language and language set: 
-- Date of submission: (YYYY/MM/DD)
-- Date of previous milestone submission: (YYYY/MM/DD)
+- Date of submission: YYYY/MM/DD
+- Date of previous milestone submission: YYYY/MM/DD
 
 
 ## Documentation checklist
