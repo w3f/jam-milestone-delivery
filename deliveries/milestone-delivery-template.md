@@ -1,7 +1,5 @@
 # JAM Milestone Delivery 
 
-> ⚠ **Only the GitHub account mentioned on the [JAM Prize Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdvisUospNv_ZUG-RMgCvPD1gp7rtX80Z65NpaQyvovBEf7Zg/viewform) is allowed to submit milestones.**
-
 > Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with >, such as this one, can be removed.
 
 
@@ -12,27 +10,27 @@
 - Company/Team's name:
 - Company/Team's GitHub:
 - Programming language and language set: 
-- Date of submission: YYYY/MM/DD
-- Date of previous milestone submission: YYYY/MM/DD
+- Link/s to previous delivery/ies: 
 
 
 ## Documentation checklist
 
 >Please check the boxes to confirm that you have provided all the required documentation, providing direct links whenever possible. **DO NOT** include links to confidential or private documents.
 
->Chose the relevant option(s) (e.g Option A | Option B | etc.) and delete the rest.
+>Chose the relevant option(s) (e.g. Option A | Option B | etc.) and delete the rest.
 
-We declare:
+We declare that:
 
-- [ ] using **a clear and permissive open-source license**.
-- [ ] submitting **a clear Git history and public, credibly timestamped commits** | **code developed in private, with commit hashes placed, in a timely fashion, on a major public blockchain**.
-- [ ] using third party libraries for: **cryptographic primitives** (e.g. erasure-coding, Bandersnatch, Ed25519) | **codecs** (e.g. SCALE) | **networking** (e.g. QUIC).
-- [ ] providing **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
-- [ ] viewing the following **JAM implementation code** before | during our implementation.
-- [ ] not having | having private conversations with **other | the following implementers**.
-- [ ] not having | having **cases of collusion along with the following maximum reduction set** (❓⁉ CLARIFICATIONS ARE NEEDED HERE).
-- [ ] agreeing to a recorded interview by the *Polkadot Technical Fellowship* on any matter arising from this milestone submission.
-- [ ] understanding that this milestone submission will need to be ratified with an on-chain remark by the *Polkadot Technical Fellowship* before it can be merged.
+- [ ] we have completed **the Web3 Foundation KYC/KYB process**.
+- [ ] we used **a clear and permissive open-source license**.
+- [ ] we submitted **a clear Git history and public, credibly timestamped commits** | **code developed in private, with commit hashes placed, in a timely fashion, on a major public blockchain**.
+- [ ] we used third party libraries for: **cryptographic primitives** (e.g. erasure-coding, Bandersnatch, Ed25519) | **codecs** (e.g. SCALE) | **networking** (e.g. QUIC).
+- [ ] we provided **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
+- [ ] we viewed the following **JAM implementation code** before | during our implementation.
+- [ ] we have not | have had private conversations with **other | the following implementers**.
+- [ ] we have not | have had **cases of collusion along with the following maximum reduction set** (❓⁉ CLARIFICATIONS ARE NEEDED HERE).
+- [ ] we agree to a recorded interview by the *Polkadot Technical Fellowship* on any matter arising from this milestone submission.
+- [ ] we understand that this milestone submission will need to be ratified with an on-chain remark by the *Polkadot Technical Fellowship* before it can be merged.
 
 
 
