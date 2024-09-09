@@ -28,7 +28,7 @@ We declare that:
 - [ ] we provided **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
 - [ ] we viewed the following **JAM implementation code** before | during our implementation.
 - [ ] we have not | have had private conversations with **other | the following implementers**.
-- [ ] we have not | have had **cases of collusion along with the following maximum reduction set** (❓⁉ CLARIFICATIONS ARE NEEDED HERE).
+- [ ] we have not | have had **concerns about collusion**.
 - [ ] we agree to a recorded interview by the *Polkadot Technical Fellowship* on any matter arising from this milestone submission.
 - [ ] we understand that this milestone submission will need to be ratified with an on-chain remark by the *Polkadot Technical Fellowship* before it can be merged.
 
