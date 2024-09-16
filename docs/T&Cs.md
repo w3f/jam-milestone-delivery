@@ -11,35 +11,49 @@ Updated September 2024
 ## 2.  Eligibility
 
 2.1. The Competition is open to individuals and teams (the “Participant(s)”). Each Participant is only allowed to work on one implementation.
+
 2.2. The Participants must comply with all eligibility requirements and ensure their submissions do not violate any third-party intellectual property rights.
+
 2.3. The Participants accept and acknowledge that the payment of the Prize by the Foundation is conditional upon the successful completion of all KYC/AML processes, which might be outsourced by the Foundation to a third-party service provider. If this requirement is not met, the Participant may be disqualified and no Prize will be paid.
 
 ## 3.  Submission Guidelines
 
 3.1. Third-party libraries for cryptographic primitives (erasure-coding, Bandersnatch, Ed25519), codecs (e.g., SCALE), and networking (e.g., QUIC) are acceptable.
+
 3.2. Only programming languages defined in one of the approved language sets are eligible for the Prize.
+
 3.3. An application may be submitted for languages not included in the set, providing the proposed set and a justification explaining why the set is appropriate and why the language is sufficiently different from the others to be valuable.
+
 3.4. Code must be idiomatic for languages that define idioms.
 
 ## 4.  Performance and Implementation
 
 4.1. Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests are requirements and will be run on standard hardware.
+
 4.2. Clean-room implementation using the Graypaper and public implementor chat channels as the only resource is mandatory.
+
 4.3. Any JAM-implementation code which is viewed before or during implementation must be declared.
+
 4.4. Relevant private (not in the public implementers' channel) conversations with other implementers must be declared and summarised in reports to the Fellowship.
+
 4.5. Implementations must pass all relevant public and private conformance/performance tests. These will be shared in the near future.
 
 ## 5.  Collusion and Declarations
 
 5.1. The Prize may be reduced in case collusion may be sufficient to reduce network security.
+
 5.2. If concerned, then declarations may be stated up-front and the maximum reduction set; as long as declarations are accurate and no further collusion happens, then the reduction proportion will be the maximum.
 
 ## 6.  Verification and Transparency
 
 6.1. An interview may be requested by the Foundation after the submission is made to provide further clarifications regarding the submission.
+
 6.2. Following the accepted completion of each milestone, the Participant may nominate one Fellowship candidate/member to be promoted directly to Rank III and (optionally) a second candidate/member to Rank II. More information about the ranks can be found on the Polkadot Fellowship Manifesto.
+
 6.3. A clear Git history and public, credibly timestamped commits are necessary to help evidence organic code development by the team(s).
+
 6.4. Timestamps may be made by virtue of pushing code to GitHub on a timely basis.
+
 6.5. For code developed in private, commit hashes should be placed, in a timely fashion, on a major public blockchain and readily visible on a block explorer.
 
 ## 7.  Appeals and Governance
@@ -63,16 +77,16 @@ Updated September 2024
 
 9.1. Each Participant warrants that any work, including but not limited to ideas, concepts, designs, drawings, code, or other materials (collectively, the "Submission"), submitted in the course of the Competition:
 
-is the original work of the Participant and has not been copied or derived from any third-party work without permission;
-does not infringe upon, violate, or misappropriate any third-party intellectual property rights, including but not limited to copyrights, patents, trademarks, trade secrets, or other proprietary rights;
-does not violate any laws or regulations applicable to the Submission or its use.
+- is the original work of the Participant and has not been copied or derived from any third-party work without permission;
+- does not infringe upon, violate, or misappropriate any third-party intellectual property rights, including but not limited to copyrights, patents, trademarks, trade secrets, or other proprietary rights;
+- does not violate any laws or regulations applicable to the Submission or its use.
 
 Apparent lack of originality, undeclared collusion, plagiarism or any other violation of these Terms may result in disqualification entirely at the discretion of the judges.
 
 9.2. Each Participant agrees to indemnify, defend, and hold harmless the Foundation, its affiliates, officers, directors, employees, agents, and representatives (collectively, the "Indemnified Parties") from and against any and all claims, demands, losses, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or related to:
-any breach or alleged breach of the Participant's warranties set forth in this Clause;
-any claim that the Submission infringes, violates, or misappropriates any third-party intellectual property rights or proprietary rights;
-any other claim related to the Participant's Submission, including but not limited to claims of defamation, invasion of privacy, or violation of any other rights.
+- any breach or alleged breach of the Participant's warranties set forth in this Clause;
+- any claim that the Submission infringes, violates, or misappropriates any third-party intellectual property rights or proprietary rights;
+- any other claim related to the Participant's Submission, including but not limited to claims of defamation, invasion of privacy, or violation of any other rights.
 
 The Participant's obligation to indemnify the Indemnified Parties shall survive the conclusion of the Competition and shall be binding upon the Participant's successors, assigns, and representatives.
 
@@ -92,4 +106,4 @@ In no event shall the Foundation be liable to the Participant in respect of any 
 
 These Terms shall be governed, construed, and enforced in accordance with the laws of Switzerland, without giving effect to its conflict of laws principles. The courts of the Canton of Zug shall have exclusive jurisdiction to settle any disputes arising out of it or in connection with the Competition and this Agreement.
 
-(x) By participating in the Competition, you agree to comply with these Terms and all decisions made by the Foundation and judges. Failure to adhere to any of the above Terms may result in disqualification.
+**(x) By participating in the Competition, you agree to comply with these Terms and all decisions made by the Foundation and judges. Failure to adhere to any of the above Terms may result in disqualification.**
