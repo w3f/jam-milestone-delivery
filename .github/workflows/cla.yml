@@ -34,7 +34,7 @@ jobs:
           remote-repository-name: jam-cla
           #create-file-commit-message: 'For example: Creating file for storing CLA Signatures'
           #signed-commit-message: 'For example: $contributorName has signed the CLA in $owner/$repo#$pullRequestNo'
-          custom-notsigned-prcomment: 'Thank you for your submission. Please note that you need to accept our [Terms and Conditions](https://github.com/w3f/Grants-Program/blob/master/docs/Support%20Docs/T%26Cs.md) before your submission can be considered for the JAM Prize. Please submit the following text as a separate comment:'
+          custom-notsigned-prcomment: 'Thank you for your submission. Please note that you need to accept our [Terms and Conditions](https://github.com/w3f/jam-milestone-delivery/blob/main/docs/T&Cs.md) before your submission can be considered for the JAM Prize. Please submit the following text as a separate comment:'
           custom-pr-sign-comment: 'I have read and hereby sign the JAM Prize Terms and Conditions.'
           custom-allsigned-prcomment: '**T&C Assistant Lite bot** All Contributors have signed the T&Cs.'
           lock-pullrequest-aftermerge: false # if you don't want this bot to automatically lock the pull request after merging (default - true)
