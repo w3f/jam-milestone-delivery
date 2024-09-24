@@ -20,7 +20,7 @@ Prior to submitting your first milestone, please make sure that you have success
   7. Create a pull request and fill out the comment template.
 
 ### Milestone Review:
-  1. [Polkadot Fellows](https://polkadot-fellows.github.io/dashboard/) can (and usually do) issue questions, comments and may request changes on the pull request. Their feedback needs to be resolved before your milestone is accepted.
+  1. [Polkadot Fellows](https://polkadot-fellows.xyz/) can (and usually do) issue questions, comments and may request changes on the pull request. Their feedback needs to be resolved before your milestone is accepted.
   2. An admin will merge your pull request to accept the delivery.
 
 ### Milestone Payment:
