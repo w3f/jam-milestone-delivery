@@ -1,7 +1,5 @@
 # JAM Milestone Delivery 
 
-> Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with >, such as this one, can be removed.
-
 
 ## Company/Team details
 
@@ -21,16 +19,16 @@
 
 We declare that:
 
-- [x] we have completed **the Web3 Foundation KYC/KYB process**.
+- [x] we have completed **the Web3 Foundation KYB process**.
 - [x] we used **a clear and permissive open-source license**.
-- [x] we submitted **a clear Git history and public, credibly timestamped commits** | **code developed in private, with commit hashes placed, in a timely fashion, on a major public blockchain**.
+- [x] we submitted **a clear Git history and public, credibly timestamped commits**.
 - [x] we used third party libraries for: **cryptographic primitives** (e.g. erasure-coding, Bandersnatch, Ed25519) | **codecs** (e.g. SCALE) | **networking** (e.g. QUIC).
-- [ ] we provided **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
-- [ ] we viewed the following **JAM implementation code** before | during our implementation.
-- [ ] we have not | have had private conversations with **other | the following implementers**.
-- [ ] we have not | have had **concerns about collusion**.
-- [ ] we agree to a recorded interview by the *Polkadot Technical Fellowship* on any matter arising from this milestone submission.
-- [ ] we understand that this milestone submission will need to be ratified with an on-chain remark by the *Polkadot Technical Fellowship* before it can be merged.
+<!-- - [ ] we provided **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
+- [ ] we viewed the following **JAM implementation code** before | during our implementation. -->
+- [x] we have not had private conversations with **other implementers**.
+- [x] we have not had **concerns about collusion**.
+- [x] we agree to a recorded interview by the *Polkadot Technical Fellowship* on any matter arising from this milestone submission.
+- [x] we understand that this milestone submission will need to be ratified with an on-chain remark by the *Polkadot Technical Fellowship* before it can be merged.
 
 
 
@@ -65,6 +63,7 @@ We declare that:
 |5.	Transaction      | Transaction Struct        | [Link](https://github.com/UniversalDot/JAM/blob/master/jam/src/transaction.rs)	   | [Tests](https://github.com/UniversalDot/JAM/blob/master/jam/tests/transaction.rs)   |
 |6. Smart Contract      | Basic Function for executing Touring Complete Smart Contracts	        | [Link](https://github.com/UniversalDot/JAM/blob/master/jam/src/smart_contract.rs)	   | [Tests](https://github.com/UniversalDot/JAM/blob/master/jam/tests/smart_contract.rs)    |
 |7.	Utils      | Utility Functions (currently only Sha256)      | [Link](https://github.com/UniversalDot/JAM/blob/master/jam/src/utils.rs)	   |[Tests](https://github.com/UniversalDot/JAM/blob/master/jam/tests/utils.rs)   |
+|8.	Git History      | Git History     | [Link](https://github.com/UniversalDot/JAM/commits/master/)	   |   |
 
 
 ## Additional Information
