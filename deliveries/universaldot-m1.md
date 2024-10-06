@@ -3,8 +3,6 @@
 
 ## Company/Team details
 
->Please provide all the required information below.
-
 - Company/Team's name: UNIVERSALDOT OU
 - Company/Team's GitHub: https://github.com/UniversalDot
 - Programming language and language set: Rust (Language set B)
@@ -13,9 +11,6 @@
 
 ## Documentation checklist
 
->Please check the boxes to confirm that you have provided all the required documentation, providing direct links whenever possible. **DO NOT** include links to confidential or private documents.
-
->Chose the relevant option(s) (e.g. Option A | Option B | etc.) and delete the rest.
 
 We declare that:
 
@@ -34,12 +29,12 @@ We declare that:
 
 ## Context
 
->Please present your rationale for the completion of this milestone by connecting the deliverables and describing their purpose.
+
+This is the initial implementation of the [JAM paper](https://graypaper.com/). The current delivery includes modules for managing blocks, transactions, and smart contracts, as well as configuration settings. Each module has separated structs and logic that allows for basic creation of blockchain transactions. The current functionality covers basic state transitions and includes the basic scaffolding onto which we will build further deliverables. 
 
 
 ## Deliverables
 
->Please check the relevant box to indicate which milestone you are delivering.
 
 - [x] 1. IMPORTER: State-transitioning conformance tests pass and can import blocks.
 - [ ] 2. AUTHOR: Fully conformant and can produce blocks (including networking, off-chain).
@@ -48,11 +43,7 @@ We declare that:
 - [ ] 5. SECURE: Fully audited.
 
 
->Please provide a list of all deliverables for the milestone and include links to the actual deliverables.
 
->Ideally all links inside the table below should include a commit hash, which will be used for testing. If you don't provide a commit hash, we will work off the default branch of your repository. Thus, if you plan on continuing work after delivery, we suggest you create a separate branch for either the delivery or your continuing work.
-
->If there is anything particular about any of the deliverables we or a future reader should know, use the respective Notes column.
 
 | Number	| Deliverable	| Link	 | Notes |
 |---------|-------------|--------|-------|
@@ -68,7 +59,7 @@ We declare that:
 
 ## Additional Information
 
->Provide any relevant comments on the milestone submission that you would like to share with us.
+
 
 
 
