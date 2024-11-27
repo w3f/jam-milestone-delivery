@@ -8,7 +8,7 @@
 
 ℹ️⚠️ IMPORTANT NOTICE FOR JAM IMPLEMENTERS ⚠️ℹ️
 
-Please note that **no milestone submission will be accepted** until Graypaper v1.0 is available. You can track the latest releases by watching this repository: https://github.com/gavofyork/graypaper
+Please note that **no milestone submission will probably be accepted** until Graypaper v1.0 is available. You can track the latest releases by watching this repository: https://github.com/gavofyork/graypaper
 
 ## Process
 
