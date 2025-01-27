@@ -46,7 +46,7 @@ Please check the [JAM Prize website](https://jam.web3.foundation/) for participa
 
 We take licensing and the right of all teams in and outside the ecosystem to be recognized for their work very seriously. Using others' work without attribution or indication that this was not your own work as part of a milestone delivery **will lead to immediate disqualification**. Please [reach out to us](mailto:jam@web3.foundation) before submitting if you have any doubts about how to comply with a specific license, and we'll be happy to help.
 
-If you suspect that a JAM Prize submission is based on plagiarized code, please also reach out to jam[at]web3.foundation. 
+If you suspect that a JAM Prize submission is based on plagiarized code, please also reach out to jam@web3.foundation. 
 
 ## License <!-- omit in toc -->
 
