@@ -60,7 +60,7 @@ This is the initial implementation of the [JAM paper](https://graypaper.com/). T
 
 ## Additional Information
 
-
+The repository has been made private, so please let me know who needs access to check the source code. Thanks 
 
 
 
