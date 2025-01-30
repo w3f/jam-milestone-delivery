@@ -49,12 +49,13 @@ This is the initial implementation of the [JAM paper](https://graypaper.com/). T
 |---------|-------------|--------|-------|
 |1. License	      | MIT	        | [Link](https://github.com/UniversalDot/JAM/blob/master/LICENSE)	   |...    |
 |2.	README      | Instructions for Build and Test        | [Link](https://github.com/UniversalDot/JAM/blob/master/README.md)	   |...    |
-|3.	Block      |Basic implementation of Block creation        | [Link](https://github.com/UniversalDot/JAM/blob/master/jam/src/block.rs)  | [Tests](https://github.com/UniversalDot/JAM/blob/master/jam/tests/block.rs)   |
-|4. Blockchain	      | Blockchain implementation that is able to add transactions and check validity	        | [Link](https://github.com/UniversalDot/JAM/blob/master/jam/src/blockchain.rs)	   |[Tests](https://github.com/UniversalDot/JAM/blob/master/jam/tests/blockchain.rs)   |
-|5.	Transaction      | Transaction Struct        | [Link](https://github.com/UniversalDot/JAM/blob/master/jam/src/transaction.rs)	   | [Tests](https://github.com/UniversalDot/JAM/blob/master/jam/tests/transaction.rs)   |
-|6. Smart Contract      | Basic Function for executing Touring Complete Smart Contracts	        | [Link](https://github.com/UniversalDot/JAM/blob/master/jam/src/smart_contract.rs)	   | [Tests](https://github.com/UniversalDot/JAM/blob/master/jam/tests/smart_contract.rs)    |
-|7.	Utils      | Utility Functions (currently only Sha256)      | [Link](https://github.com/UniversalDot/JAM/blob/master/jam/src/utils.rs)	   |[Tests](https://github.com/UniversalDot/JAM/blob/master/jam/tests/utils.rs)   |
+|3.	Block      |Basic implementation of Block creation        | [Link](https://github.com/UniversalDot/JAM/blob/master/jam/src/block.rs)  |  |
+|4. Blockchain	      | Blockchain implementation that is able to add transactions and check validity	        | [Link](https://github.com/UniversalDot/JAM/blob/master/jam/src/blockchain.rs)	   |  |
+|5.	Transaction      | Transactions         | [Link](https://github.com/UniversalDot/JAM/blob/master/jam/src/transaction.rs)	   |   |
+|6. Smart Contract      | Basic Function for executing Touring Complete Smart Contracts	        | [Link](https://github.com/UniversalDot/JAM/blob/master/jam/src/smart_contract.rs)	   |    |
+|7.	Utils      | Utility Functions (currently only Sha256)      | [Link](https://github.com/UniversalDot/JAM/blob/master/jam/src/utils.rs)	   |  |
 |8.	Git History      | Git History     | [Link](https://github.com/UniversalDot/JAM/commits/master/)	   |   |
+|9.	Unit Tests    | Unit Test that verifies basic tests for block creating and state transitions   | [Link](https://github.com/UniversalDot/JAM/blob/master/jam/tests/tests.rs)	   |   |
 
 
 ## Additional Information
