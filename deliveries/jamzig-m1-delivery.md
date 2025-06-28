@@ -67,3 +67,6 @@ stay current with the latest protocol (graypaper) changes. This submission is a
 placeholder for the actual submission, to make sure we have dotted all the i’s
 and completed KYC. The link to the executable will be provided once the fuzzing
 protocol has been shared and I have built a release that can be fuzzed.
+
+I have read and hereby sign the JAM Prize Terms and Conditions.
+
