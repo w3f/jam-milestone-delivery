@@ -16,7 +16,7 @@ We declare that:
 - [x] we submitted **a clear Git history and public, credibly timestamped commits** | **code developed in private, with commit hashes placed, in a timely fashion, on a major public blockchain**.
 - [x] we used third party libraries for:
   - **cryptographic primitives**: `ark-*`, `blake2`, `ed25519-dalek`, `tiny-keccak`, `w3f-bls`, `w3f-ring-proof`
-  - **networking**: `quinn`, `rcgen`, `tokio`, `jsonrpsee`, `axum`
+  - **networking**: `axum`, `jsonrpsee`, `quinn`, `rcgen`, `tokio`
   - **encoding**: `reed-solomon`, `serde`
   - **storage**: `parity-db`
 - [x] we provided **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
