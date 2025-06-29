@@ -13,14 +13,14 @@ We declare that:
 
 - [x] we have completed **the Web3 Foundation KYC/KYB process**.
 - [x] we used **a clear and permissive open-source license**.
-- [x] we submitted **a clear Git history and public, credibly timestamped commits** | **code developed in private, with commit hashes placed, in a timely fashion, on a major public blockchain**.
+- [x] **code developed in private, with commit hashes placed, in a timely fashion, on a major public blockchain**.
 - [x] we used third party libraries for:
   - **cryptographic primitives**: `ark-*`, `blake2`, `ed25519-dalek`, `tiny-keccak`, `w3f-bls`, `w3f-ring-proof`
   - **networking**: `axum`, `jsonrpsee`, `quinn`, `rcgen`, `tokio`
   - **encoding**: `reed-solomon`, `serde`
   - **storage**: `parity-db`
-- [x] we provided **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
-- [x] we viewed the following **JAM implementation code** before | during our implementation.
+- [ ] we provided **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
+- [ ] we viewed the following **JAM implementation code** before | during our implementation.
 - [x] we have not had private conversations with **other | the following implementers**.
 - [x] we have not had **concerns about collusion**.
 - [x] we agree to a recorded interview by the _Polkadot Technical Fellowship_ on any matter arising from this milestone submission.
