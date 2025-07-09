@@ -51,7 +51,7 @@ You can follow Polana's progress at https://x.com/polana_network.
 
 | Number	| Deliverable	| Link	 | Notes |
 |---------|-------------|--------|-------|
-|1.	      |M1	          | https://github.com/jamzig/conformance-releases/tree/main/releases/202507062117_3616ff7	   | M1 v0.6.6 Fuzz Target    |
+|1.	      |M1	          | https://github.com/jamzig/conformance-releases/tree/main/releases/  | M1 v0.6.6 Fuzz Target    |
 |2.	      |...	        | ...	   |...    |
 |3.	      |...	        | ...	   |...    |
 |4.	      |...	        | ...	   |...    |
