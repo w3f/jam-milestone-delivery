@@ -49,6 +49,12 @@ We take licensing and the right of all teams in and outside the ecosystem to be 
 
 If you suspect that a JAM Prize submission is based on plagiarized code, please also reach out to jam[at]web3.foundation. 
 
+## KYB/KYC
+
+NOTICE: 
+In connection with your participation in an ecosystem initiative organised by Web 3.0 Technologies Foundation, you agree to the processing of your personal data for identity verification, in order to prevent fraud, ensure eligibility, and maintain the integrity of our processes. This processing is based on legitimate interests under the EU General Data 
+Protection Regulation and on justified organisational needs under the Swiss Federal Act on Data Protection. Please follow these links to complete the [KYC (Know Your Customer)](https://in.sumsub.com/websdk/p/uni_6qX6Ju3vlfrMQbbG) or [KYB (Know Your Business)](https://in.sumsub.com/websdk/p/uni_6eVGNmoJ83HVovnN) process. Your information will be handled in line with the [Web3 Foundation Privacy and Cookies Policy](https://web3.foundation/privacy-and-cookies/) and the [Sumsub Privacy Notice](https://sumsub.com/privacy-notice-service/).
+
 ## License <!-- omit in toc -->
 
 [Apache License 2.0](LICENSE) © Web3 Foundation
