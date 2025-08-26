@@ -12,7 +12,7 @@
 
 We declare that:
 
-- [ ] we have completed **the Web3 Foundation KYC/KYB process**.
+- [x] we have completed **the Web3 Foundation KYC/KYB process**.
 - [x] we used **a clear and permissive open-source license**.
   - Apache License Version 2.0
 - [x] we submitted **a clear Git history and public, credibly timestamped commits** | **code developed in private, with commit hashes placed, in a timely fashion, on a major public blockchain**.
