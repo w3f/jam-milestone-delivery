@@ -6,11 +6,6 @@
 
 # JAM Prize Milestone Delivery
 
-> [!CAUTION]
-> ⚠️ IMPORTANT NOTICE FOR JAM IMPLEMENTERS ⚠️
-> 
-> Please note that **no milestone submission will probably be accepted** until Graypaper v1.0 is available. You can track the latest releases by watching this repository: https://github.com/gavofyork/graypaper
-
 ## Process
 
 Prior to submitting your first milestone, please make sure that you have successfully completed a [KYB](https://in.sumsub.com/idensic/l/#/uni_LhZH9SdrmtuvGnnz) (or, if you work alone, a [KYC](https://in.sumsub.com/idensic/l/#/uni_ZUSbgdezo6hdrZVn)) check.
