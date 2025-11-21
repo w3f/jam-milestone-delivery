@@ -18,7 +18,7 @@ We declare that:
 - [x] we submitted **a clear Git history and public, credibly timestamped commits** | **code developed in private, with commit hashes placed, in a timely fashion, on a major public blockchain**.
   - https://polkadot.subscan.io/extrinsic?module=system&call=remark&page=1&time_dimension=date&address=12iqwZGB2sguEhjFi2ZRuWWixU8mHJnSiP1pwDefqGsBy4rV 
 - [x] we used third party libraries for: **cryptographic primitives** (e.g. erasure-coding, Bandersnatch, Ed25519) | **codecs** (e.g. SCALE) | **networking** (e.g. QUIC):
-  - **cryptographic primitives**: PyNaCl, ark-ec-vrfs, reed-solomon-simd
+  - **cryptographic primitives**: PyNaCl, ark-ec-vrfs, reed-solomon-simd, ed25519-consensus
   - **networking**: qh3, websockets
 - [ ] we provided **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
 - [ ] we viewed the following **JAM implementation code** before | during our implementation.
