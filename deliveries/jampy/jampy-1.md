@@ -47,12 +47,9 @@ The deliverable includes a binary distribution of the target and fuzzer for gray
 
 | Number	| Deliverable	| Link	 | Notes |
 |---------|-------------|--------|-------|
-|1.	      |M1 target and fuzzer | https://github.com/dakk/jampy-releases/tree/main/dist	   |  |
-|1.	      |jampy source code | https://github.com/dakk/jampy	   | access granted on demand   |
-|2.	      |...	        | ...	   |...    |
-|3.	      |...	        | ...	   |...    |
-|4.	      |...	        | ...	   |...    |
-|5.	      |...	        | ...	   |...    |
+|1.	      |M1 target and fuzzer for 0.7.2 | https://github.com/dakk/jampy-releases/blob/main/dist/jampy-target-0.7.2_x86-64.zip | |
+|2.       |M1 targets for other versions | https://github.com/dakk/jampy-releases/tree/main/dist	   |  |
+|3.	      |jampy source code | https://github.com/dakk/jampy	   | access granted on demand   |
 
 
 ## Additional Information
