@@ -30,7 +30,7 @@ Updated September 2024
 
 4.1. Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests are requirements and will be run on standard hardware.
 
-4.2. Clean-room implementation using the Graypaper and public implementor chat channels as the only resource is mandatory.
+4.2. Clean-room implementation using the [Graypaper](https://graypaper.com/graypaper.pdf) and public implementor chat channels as the only resource is mandatory.
 
 4.3. Any JAM-implementation code which is viewed before or during implementation must be declared.
 
@@ -48,7 +48,7 @@ Updated September 2024
 
 6.1. An interview may be requested by the Foundation after the submission is made to provide further clarifications regarding the submission.
 
-6.2. Following the accepted completion of each milestone, the Participant may nominate one Fellowship candidate/member to be promoted directly to Rank III and (optionally) a second candidate/member to Rank II. More information about the ranks can be found on the Polkadot Fellowship Manifesto.
+6.2. Following the accepted completion of each milestone, the Participant may nominate one Fellowship candidate/member to be promoted directly to Rank III and (optionally) a second candidate/member to Rank II. More information about the ranks can be found on the [Polkadot Fellowship Manifesto](https://github.com/polkadot-fellows/manifesto/blob/main/manifesto.pdf).
 
 6.3. A clear Git history and public, credibly timestamped commits are necessary to help evidence organic code development by the team(s).
 
@@ -68,7 +68,7 @@ Updated September 2024
 
 8.3. The Participants accept and acknowledge that at least 75% of the Prize allocated to the Participant will be subject to a "vested transfer" mechanism, wherein the DOTs will be locked in a wallet address specified by the Participant and will vest linearly over a period of twenty-four (24) months (the “Vesting Period”). This means that the full amount of the Prize will be completely unlocked within twenty-four (24) months from the date of the transfer of the Prize to the Participant’s wallet address. The Participant acknowledges and agrees that until the full Vesting Period is completed, it will only be able to dispose of the Prize to the extent that it has been released according to the underlying rules of the protocol. The Participant acknowledges that, despite the vesting mechanism, it assumes all ownership and risk associated with the Prize from the date of transfer, including compliance with any applicable tax obligations relating to the Prize. The Foundation shall not be responsible for any fluctuations in the value of the DOT.
 
-8.4. The Prize will be awarded no earlier than the ratification by the Polkadot Fellowship of version 1.0 of the JAM protocol. The payment will be made by the Foundation within 30-days of the receipt of a valid invoice issued in line with this invoice template.
+8.4. The Prize will be awarded no earlier than the ratification by the Polkadot Fellowship of version 1.0 of the JAM protocol. The payment will be made by the Foundation within 30-days of the receipt of a valid invoice issued in line with [this invoice template](https://docs.google.com/spreadsheets/d/16BlspUpfqFqBc5nQRK_dUNmpXHUBXlQC6P8an_f29yM/edit?usp=sharing).
 
 8.5. If the team consists of multiple individuals but does not operate through a legal entity, the Foundation will transfer the reward to a team member designated by the team. The reward will be sent to a wallet address indicated by the designated team member. The Foundation bears no responsibility for the internal distribution of the reward between team members.
 
@@ -96,7 +96,7 @@ The Participant's obligation to indemnify the Indemnified Parties shall survive 
 
 10.1. The Participant acknowledges and agrees that the Foundation will collect and process personal data submitted by the Participant through the application form (such as an email address, Matrix handle, X handle, etc.) on the basis of legitimate interests for the purposes of facilitating the Participant’s participation in the Competition, and that this data may be shared with third parties.
 
-10.2. The Foundation will handle personal data in accordance with applicable data protection laws and regulations. The details of how the data will be processed, as well as the respective data subject rights can be found in this privacy policy. Additionally, the data collected during the KYC process will be processed by Sum and Substance Ltd in accordance with their privacy policy.
+10.2. The Foundation will handle personal data in accordance with applicable data protection laws and regulations. The details of how the data will be processed, as well as the respective data subject rights can be found in [this privacy policy](https://web3.foundation/privacy-and-cookies/). Additionally, the data collected during the KYC process will be processed by Sum and Substance Ltd in accordance with [their privacy policy](https://sumsub.com/privacy-notice-service/).
 
 ## 11.  Exclusion of Liability
 
