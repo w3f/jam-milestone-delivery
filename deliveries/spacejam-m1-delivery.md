@@ -4,7 +4,7 @@
 
 - Company/Team's name: SpaceJam
 - Company/Team's GitHub: [https://github.com/spacejamapp](https://github.com/spacejamapp)
-- Programming language and language set: Rust
+- Programming language and language set: Rust / Set B
 - Link/s to previous delivery/ies: _none_
 
 ## Documentation checklist
@@ -15,8 +15,8 @@ We declare that:
 - [x] we used **a clear and permissive open-source license**.
 - [x] **code developed in private, with commit hashes placed, in a timely fashion, on a major public blockchain**.
 - [x] we used third party libraries for:
-  - **cryptographic primitives**: `ark-*`, `blake2`, `ed25519-dalek`, `tiny-keccak`, `w3f-bls`, `w3f-ring-proof`
-  - **networking**: `axum`, `jsonrpsee`, `quinn`, `rcgen`, `tokio`
+  - **cryptographic primitives**: `ark-*`, `blake2`, `ed25519-zebra`, `tiny-keccak`, `w3f-bls`, `w3f-ring-proof`, `rcgen`
+  - **networking**: `quinn`
   - **encoding**: `reed-solomon`, `serde`
   - **storage**: `parity-db`
 - [ ] we provided **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
@@ -28,8 +28,30 @@ We declare that:
 
 ## Context
 
-1. we can pass [all trace tests](https://github.com/w3f/jamtestvectors/tree/master/traces) at `0.6.6`.
-2. we have introduced a fuzz target in the [spacejam](https://github.com/spacejamapp/specjam/releases/tag/0.6.6) binary at `0.6.6`.
+SpaceJam has successfully passed all test vectors:
+
+- [0.7.2 jam-conformance vectors](https://github.com/davxy/jam-conformance)
+- [0.7.2 jam-test-vectors](https://github.com/davxy/jam-test-vectors)
+
+### Performance && Development
+
+We have the best performance overall third-parity implementations according to [jam-conformance-dashboard][perf],
+and likely we can match the performance of polkajam (recompiler) again once the dashboard get updated with the
+latest binaries.
+
+- We have developed our [PVM compiler][spacevm] which matches the performance of polkavm.
+- We have developed the [Jade Framework](https://github.com/spacejamapp/jade) for writing PVM programs.
+- We have developed [PVM Codes][codes] for people learning PVM.
+- We have developed a JAM explorer (currently got offline due to the delay of M1)
+
+### Fellowship Membership
+
+We propose [@clearloop][clearloop] for fellowship membership.
+
+### Other accomplishments
+
+Our node works with polkajam in local testnet since April, 2025 following the [jam-np][jam-np] protocol, looking
+forward to complete the full node path in 2026.
 
 ## Deliverables
 
@@ -39,12 +61,21 @@ We declare that:
 - [ ] 4. FULL-SPEED: Conformance and Polkadot-level performance (including PVM implementation).
 - [ ] 5. SECURE: Fully audited.
 
-| Number | Deliverable                | Link                             | Notes                         |
-| ------ | -------------------------- | -------------------------------- | ----------------------------- |
-| 1.     | spacejam binary at `0.6.6` | [releases/0.6.6][v0.6.6]         | spacejam binaries at GP-0.6.6 |
-| 2.     | spacejam source code       | [spacejamapp/spacejam][spacejam] | This is currently not public  |
+| Number | Deliverable                          | Link                             | Notes                           |
+| ------ | ------------------------------------ | -------------------------------- | ------------------------------- |
+| 1.     | SpaceJam binary at graypaper `0.7.2` | [releases/0.7.2][v0.7.2]         | spacejam binaries at GP-0.7.2   |
+| 2.     | SpaceJam source code                 | [spacejamapp/spacejam][spacejam] | This is currently not public    |
+| 3.     | Jade Framework                       | [spacejamapp/jade][jade]         | For writing PVM programs        |
+| 4.     | SpaceVM ABI                          | [spacejamapp/spacevm][spacevm]   | sys library for calling SpaceVM |
+| 5.     | PVM Code tables                      | [pvm-codes][codes]               | website for learning PVM        |
 
 ## Additional Information
 
-[v0.6.6]: https://github.com/spacejamapp/specjam/releases/tag/0.6.6
+[v0.7.2]: https://github.com/spacejamapp/specjam/releases/tag/0.7.2
 [spacejam]: https://github.com/spacejamapp/spacejam
+[jade]: https://github.com/spacejamapp/jade
+[perf]: https://github.com/paritytech/jam-conformance-dashboard
+[spacevm]: https://docs.rs/spacevm-sys/latest/spacevm_sys/
+[codes]: https://pvm.spacejam.app/
+[clearloop]: https://github.com/clearloop
+[jam-np]: https://github.com/zdave-parity/jam-np
