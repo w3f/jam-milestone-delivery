@@ -66,7 +66,7 @@ The project was developed entirely by me Andrea Baccega and it was written in Ty
 | Number	| Deliverable	| Link	 | Notes |
 |---------|-------------|--------|-------|
 |1.	      |M1 target | https://github.com/vekexasia/tsjam-releases	   |...    |
-|2.	      |Source Code	        | https://github.com/tsjam	   |requires invitaiton (comment here to request)    |
+|2.	      |Source Code	        | https://github.com/tsjam	   |requires invitation (comment in PR to request)    |
 |3.	      |...	        | ...	   |...    |
 |4.	      |...	        | ...	   |...    |
 |5.	      |...	        | ...	   |...    |
