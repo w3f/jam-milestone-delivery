@@ -31,7 +31,7 @@ We declare that:
 
 ## Context
 
-JamPy is an open-source implementation of the JAM protocol using the Python language, developed by Davide Gessa and released under "Apache License 2.0".
+JamPy is an open-source implementation of the JAM protocol using the Python language, developed by Davide Gessa and released under "Apache License 2.0". Its development started 2024-08-08, and I worked almost full-time on it as a sole developer.
 
 The deliverable includes a binary distribution of the target for graypaper version 0.7.2. The code is still not publicly available, but please contact to get access to the repo.
 
