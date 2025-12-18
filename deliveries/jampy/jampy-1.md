@@ -33,9 +33,11 @@ We declare that:
 
 JamPy is an open-source implementation of the JAM protocol using the Python language, developed by Davide Gessa and released under "Apache License 2.0".
 
-The deliverable includes a binary distribution of the target and fuzzer for graypaper version 0.7.2. The code is still not publicly available, but please contact to get access to the repo.
+The deliverable includes a binary distribution of the target for graypaper version 0.7.2. The code is still not publicly available, but please contact to get access to the repo.
 
 Commit hashes are remarked on the Polkadot blockchain about once a week from my personal account: https://polkadot.subscan.io/extrinsic?module=system&call=remark&page=1&time_dimension=date&address=12iqwZGB2sguEhjFi2ZRuWWixU8mHJnSiP1pwDefqGsBy4rV
+
+The source code includes work in progress branches for new graypaper releases.
 
 
 ## Deliverables
@@ -49,7 +51,7 @@ Commit hashes are remarked on the Polkadot blockchain about once a week from my 
 
 | Number	| Deliverable	| Link	 | Notes |
 |---------|-------------|--------|-------|
-|1.	      |M1 target and fuzzer for 0.7.2 | https://github.com/dakk/jampy-releases/blob/main/dist/jampy-target-0.7.2_x86-64.zip | |
+|1.	      |M1 target for 0.7.2 | https://github.com/dakk/jampy-releases/blob/main/dist/jampy-target-0.7.2_x86-64.zip | |
 |2.       |M1 targets for other versions | https://github.com/dakk/jampy-releases/tree/main/dist	   |  |
 |3.	      |jampy source code | https://github.com/dakk/jampy	   | access granted on demand   |
 
