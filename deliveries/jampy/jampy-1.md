@@ -33,7 +33,9 @@ We declare that:
 
 JamPy is an open-source implementation of the JAM protocol using the Python language, developed by Davide Gessa and released under "Apache License 2.0".
 
-The deliverable includes a binary distribution of the target and fuzzer for graypaper version 0.7.0. The code is still not publicly available, but please contact to get access to the repo.
+The deliverable includes a binary distribution of the target and fuzzer for graypaper version 0.7.2. The code is still not publicly available, but please contact to get access to the repo.
+
+Commit hashes are remarked on the Polkadot blockchain about once a week from my personal account: https://polkadot.subscan.io/extrinsic?module=system&call=remark&page=1&time_dimension=date&address=12iqwZGB2sguEhjFi2ZRuWWixU8mHJnSiP1pwDefqGsBy4rV
 
 
 ## Deliverables
