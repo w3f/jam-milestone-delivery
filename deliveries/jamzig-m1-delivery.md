@@ -226,6 +226,7 @@ Major Technical Milestones
 ✅ v0.7.0 - November 2025
 ✅ v0.7.1 Compliance - November 28, 2025
 ✅ v0.7.1 Conformance - December 14, 2025
+✅ v0.7.2 Conformance - December 18, 2025
 
 ---
 Event Attendance
