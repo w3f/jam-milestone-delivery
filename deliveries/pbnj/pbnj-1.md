@@ -6,13 +6,9 @@
 - Company/Team's GitHub: https://github.com/Esscrypt
 - Programming language and language set: Typescript/Assemblyscript (Set C)
 - Link/s to previous delivery/ies: 
-
+[Bandersnatch VRF](https://github.com/w3f/Grant-Milestone-Delivery/pull/1306)
 
 ## Documentation checklist
-
->Please check the boxes to confirm that you have provided all the required documentation, providing direct links whenever possible. **DO NOT** include links to confidential or private documents.
-
->Chose the relevant option(s) (e.g. Option A | Option B | etc.) and delete the rest.
 
 We declare that:
 
@@ -59,7 +55,7 @@ The implementation has passed all currently published JAM STF and execution trac
 
 ## Additional Information
 
-PBNJ will work as-is for fuzzing with the current configuration defined in https://github.com/davxy/jam-conformance/blob/main/scripts/targets.json
+This has been a very challenging and interesting project to work on, thank you for the opportunity to contribute.
 
 
 
