@@ -47,6 +47,8 @@ The jamzilla-tiny binary deliverable passes all state-transitioning conformance 
 
 ## Additional Information
 
+The deliverables in this milestone target GP 0.7.2. The main branch of the repository will target GP 0.7.2 for the duration of submission evaluation.
+
 To verify conformance tests:
 ```bash
 ./build.sh
