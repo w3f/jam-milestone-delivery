@@ -24,7 +24,7 @@ We declare that:
 - [ ] we have completed **the Web3 Foundation KYC/KYB process**.
 - [x] we used **a clear and permissive open-source license**.
 - [ ] we submitted **a clear Git history and public, credibly timestamped commits** | **code developed in private, with commit hashes placed, in a timely fashion, on a major public blockchain**.
-- [x] we used third party libraries for: **cryptographic primitives** ([erasure-coding](https://docs.rs/reed-solomon-simd/3.0.1/reed_solomon_simd/), [Bandersnatch](https://github.com/davxy/ark-vrf), [Ed25519](https://pkg.go.dev/filippo.io/edwards25519@v1.0.0), [Ed25519](https://pkg.go.dev/github.com/hdevalence/ed25519consensus@v0.2.0) | **networking** ([QUIC](https://github.com/quic-go/quic-go)).
+- [x] we used third party libraries for: **cryptographic primitives** ([erasure-coding](https://docs.rs/reed-solomon-simd/3.0.1/reed_solomon_simd/), [Bandersnatch](https://github.com/davxy/ark-vrf), [Ed25519](https://pkg.go.dev/filippo.io/edwards25519@v1.0.0), [Ed25519](https://pkg.go.dev/github.com/hdevalence/ed25519consensus@v0.2.0) | **networking** ([QUIC](https://github.com/quic-go/quic-go)) | **DB**([DB](https://github.com/redis/go-redis)).
 - [ ] we provided **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
 - [ ] we viewed the following **JAM implementation code** before | during our implementation.
 - [x] we have not | have had private conversations with **other | the following implementers**.
@@ -36,8 +36,13 @@ We declare that:
 
 ## Context
 
->Please present your rationale for the completion of this milestone by connecting the deliverables and describing their purpose.
+New-JAMneration is engineered for real-world JAM operations—correct by construction, fast under load, and resilient in production. Built in Go, it leverages a proven safety model and an ecosystem optimized for long-running services, making it a natural fit for event-driven validator and worker architectures at scale.
 
+On correctness, the project already passes every publicly available JAM STF and execution trace test vector, providing strong evidence of specification conformance.
+
+On functionality, it has moved beyond core execution to cover the full validation workflow: refining work packages, generating assurance, and auditing work reports. A working PVM interpreter is included for correct execution today, and a PVM recompiler is planned as a future enhancement to improve performance through dynamic recompilation.
+
+Internal testing, validation, and performance benchmarking have been completed. The components are now ready for milestone evaluation and external verification.
 
 ## Deliverables
 
