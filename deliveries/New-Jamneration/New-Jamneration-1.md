@@ -23,12 +23,12 @@ We declare that:
 
 - [ ] we have completed **the Web3 Foundation KYC/KYB process**.
 - [x] we used **a clear and permissive open-source license**.
-- [ ] we submitted **a clear Git history and public, credibly timestamped commits** | **code developed in private, with commit hashes placed, in a timely fashion, on a major public blockchain**.
+- [x] we submitted **a clear Git history and public, credibly timestamped commits**.
 - [x] we used third party libraries for: **cryptographic primitives** ([erasure-coding](https://docs.rs/reed-solomon-simd/3.0.1/reed_solomon_simd/), [Bandersnatch](https://github.com/davxy/ark-vrf), [Ed25519](https://pkg.go.dev/filippo.io/edwards25519@v1.0.0), [Ed25519](https://pkg.go.dev/github.com/hdevalence/ed25519consensus@v0.2.0) | **networking** ([QUIC](https://github.com/quic-go/quic-go)) | **DB**([DB](https://github.com/redis/go-redis)).
 - [ ] we provided **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
 - [ ] we viewed the following **JAM implementation code** before | during our implementation.
-- [x] we have not | have had private conversations with **other | the following implementers**.
-- [x] we have not | have had **concerns about collusion**.
+- [x] we have not had private conversations with **other**.
+- [x] we have not had **concerns about collusion**.
 - [x] we agree to a recorded interview by the *Polkadot Technical Fellowship* on any matter arising from this milestone submission.
 - [x] we understand that this milestone submission will need to be ratified with an on-chain remark by the *Polkadot Technical Fellowship* before it can be merged.
 
