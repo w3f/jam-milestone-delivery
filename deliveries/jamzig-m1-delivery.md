@@ -26,23 +26,17 @@ We declare that:
 
 ## Context
 
-This represents our JamZig M1 delivery, completed as a solo
-implementation effort. For deeper insights into our journey and project
-evolution, check out our X profile at https://x.com/jamzig_dev. 
+This milestone represents the JamZig M1 delivery, developed as a solo implementation effort.
 
-The codebase and executable we're submitting has been "refined" to deliver
-precisely what M1 demands—nothing more, nothing less. Behind the scenes, I'm
-actively developing networking capabilities and developer tooling in a private
-repository, laying the groundwork for what's next. This work is boosted by the
-co-founded Polana project (https://polana.network), where we've successfully
-ported the SVM into a JAM service running on our JamZig implementation which is
-capable of running sBPF Solana contracts. 
+JamZig is an active JAM implementation with ongoing development of networking capabilities and developer tooling. This work is supported by two related initiatives:
 
-Additionally, Akasha Void
-(https://akashavoid.io), a soon-to-be-released space trader game, is being
-prototyped to run on JAM's continuous execution framework. 
+**Polana** (https://polana.network) - A co-founded project that has successfully ported the Solana Virtual Machine (SVM) into a JAM service running on the JamZig implementation, enabling execution of sBPF Solana contracts.
 
-You can follow Polana's progress at https://x.com/polana_network. 
+**Akasha Void** (https://akashavoid.io) - A space trading game currently being prototyped to run on JAM's continuous execution framework, scheduled for release in 2026.
+
+Development progress and updates are available at:
+- JamZig: https://x.com/jamzig_dev
+- Polana: https://x.com/polana_network 
 
 ## Deliverables
 
@@ -55,8 +49,8 @@ You can follow Polana's progress at https://x.com/polana_network.
 
 | Number	| Deliverable	| Link	 | Notes |
 |---------|-------------|--------|-------|
-|1.	      |M1	          | https://github.com/jamzig/conformance-releases  | M1 v0.7.2 Fuzz Target    |
-|2.	      |...	        | ...	   |...    |
+|1.	      |Fuzz target M1   | https://github.com/jamzig/conformance-releases  | M1 v0.7.2 Fuzz Target    |
+|2.	      |Source code M1	| https://github.com/jamzig/jamzig	   |...    | W3F/Fellowship Reviewers will be granted access on request     |
 |3.	      |...	        | ...	   |...    |
 |4.	      |...	        | ...	   |...    |
 |5.	      |...	        | ...	   |...    |
@@ -190,6 +184,9 @@ December 2025: Conformance Testing & Refinement
   - Lexicographic tuple ordering for theta
 - Dec 14: PR #108: v0.7.1 conformance ✅
 - Commit Activity: 22 commits (ongoing)
+
+January 2026: Conformance Testing v0.7.2
+ - Jan 3: Christmas batch passes all traces
 
 ---
 Development Metrics
