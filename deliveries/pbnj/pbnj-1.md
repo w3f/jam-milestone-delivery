@@ -27,13 +27,14 @@ We declare that:
 
 ## Context
 
-Peanut Butter and JAM is a modular, modern TypeScript implementation of the JAM protocol, created by Mihail Kirov, designed to support Polkadot's JAM network with a focus on readability, modularity and reusability. Built with TypeScript and Bun, the project benefits from:
+Peanut Butter and JAM is a modular, modern TypeScript/AssemblyScript implementation of the JAM protocol, created by Mihail Kirov, designed to support Polkadot's JAM network with a focus on readability, modularity and reusability. Built with TypeScript and Bun, the project benefits from:
 - TypeScript's type system: Compile-time type checking, strong IDE support, and clear interfaces reduce bugs and improve maintainability.
 - Bun's performance: Fast JavaScript runtime, native bundling, and efficient package management for high-throughput validator and worker workloads.
 - Modern tooling: Rich ecosystem, mature libraries, and strong developer experience for building complex protocol implementations.
 - Platform independence: Cross-platform support for consistent deployment across environments.
 - Event-driven architecture: Well-suited for long-running, large-scale validator and worker deployments.
 The implementation has passed all currently published JAM STF and execution trace vectors, demonstrating adherence to the specification and a high level of protocol correctness.
+- Small bundle size: Under 100MB binary size
 
 ## Deliverables
 
@@ -47,7 +48,7 @@ The implementation has passed all currently published JAM STF and execution trac
 
 | Number	| Deliverable	         | Link	 | Notes                                          |
 |---------|----------------------|--------|------------------------------------------------|
-|1.	      | 0.7.2 fuzzer target	 | https://github.com/Esscrypt/peanutbutterandjam	   | |
+|1.	      | 0.7.2 fuzzer target	 | [Here](https://github.com/Esscrypt/pbnj-fuzzer-releases/releases)	   | |
 |1.	      | PBNJ source code	 | [Here](https://github.com/Esscrypt/peanutbutterandjam)	   | Access granted on demand.                      |
 |3.	      | ...	                 | ...	   | ...                                            |
 |4.	      | ...	                 | ...	   | ...                                            |
