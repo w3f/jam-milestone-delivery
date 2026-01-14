@@ -35,11 +35,9 @@ SpaceJam has successfully passed all test vectors:
 
 ### Performance && Development
 
-We have the best performance overall third-parity implementations according to [jam-conformance-dashboard][perf],
-and likely we can match the performance of polkajam (recompiler) again once the dashboard get updated with the
-latest binaries.
+We have the best performance overall third-parity implementations according to [jam-conformance-dashboard][perf].
 
-- We have developed our [PVM compiler][spacevm] which matches the performance of polkavm.
+- We have developed our [PVM compiler][spacevm] which supports both AOT & JIT compilations.
 - We have developed the [Jade Framework](https://github.com/spacejamapp/jade) for writing PVM programs.
 - We have developed [PVM Codes][codes] for people learning PVM.
 - We have developed a JAM explorer (currently got offline due to the delay of M1)
@@ -47,11 +45,6 @@ latest binaries.
 ### Fellowship Membership
 
 We propose [@clearloop][clearloop] for fellowship membership.
-
-### Other accomplishments
-
-Our node works with polkajam in local testnet since April, 2025 following the [jam-np][jam-np] protocol, looking
-forward to complete the full node path in 2026.
 
 ## Deliverables
 
@@ -78,4 +71,3 @@ forward to complete the full node path in 2026.
 [spacevm]: https://docs.rs/spacevm-sys/latest/spacevm_sys/
 [codes]: https://pvm.spacejam.app/
 [clearloop]: https://github.com/clearloop
-[jam-np]: https://github.com/zdave-parity/jam-np
