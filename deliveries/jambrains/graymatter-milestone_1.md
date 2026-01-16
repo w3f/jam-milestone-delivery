@@ -1,13 +1,9 @@
-<h1>@ggwpez reasolve all TODO</h1>
-
 # JAM Milestone Delivery 
 
 ## Company/Team details
 
->Please provide all the required information below.
-
 - Team's name: JamBrains
-- Team's GitHub: @jambrains
+- Team's GitHub: jambrains
 - Programming language and language set: Elixir (set D)
 - Link to previous delivery: n/a
 
@@ -28,9 +24,9 @@ We declare that:
 ## Context
 
 We present you hereby with an implementation of the *Gray Paper v0.7.2* to claim the first milestone of the [JAM Prize](https://jam.web3.foundation/) as defined by the Web3 foundation.  
-Our implementation *GrayMatter* passes all public conformance tests is continously being improved to pass additional tests. The repository is hosted privately on GitHub, please forward us the list of people that need access to `@oliver.tale-yazdi:parity.io` on matrix.
+Our implementation *GrayMatter* passes all public conformance tests is continously being improved to pass additional tests. The repository is hosted privately on GitHub, please forward us the list of people that need access to `@oliver.tale-yazdi:parity.io` on matrix or on GitHub.
 
-Best Regards from the JamBrains team,  
+Best Regards,  
 Kian Paimani, Francisco Aguirre and Oliver Tale-Yazdi
 
 ## Deliverables
@@ -49,7 +45,7 @@ Kian Paimani, Francisco Aguirre and Oliver Tale-Yazdi
 ## Additional Information
 
 **Remarking**  
-We remarked our master commit hashes to the Polkadot "collectives" chain from the following acc 
+We remarked our master commit hashes to the *Polkadot Collectives* chain from the following acc 
 [1jamyjYe97qPPtdeYVcUosPwc2Bv1Y6zNEMtzPW8a2z2abN](https://collectives-polkadot.subscan.io/extrinsic?address=1jamyjYe97qPPtdeYVcUosPwc2Bv1Y6zNEMtzPW8a2z2abN) in the format `{ "project": "JamBrains/graymatter", "commit": "<SHA>" }`.
 
 **Prize Account**  
