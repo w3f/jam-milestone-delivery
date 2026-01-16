@@ -24,9 +24,10 @@ We declare that:
 ## Context
 
 We present you hereby with an implementation of the *Gray Paper v0.7.2* to claim the first milestone of the [JAM Prize](https://jam.web3.foundation/) as defined by the Web3 foundation.  
-Our implementation *GrayMatter* passes all public conformance tests is continously being improved to pass additional tests. The repository is hosted privately on GitHub, please forward us the list of people that need access to `@oliver.tale-yazdi:parity.io` on matrix or on GitHub.
+Our implementation *GrayMatter* passes all public conformance tests and is continously being improved to pass additional tests.
+The repository is hosted privately on GitHub, please forward us the list of people that need access to `@oliver.tale-yazdi:parity.io` on matrix or GitHub.
 
-Best Regards,  
+Best Regards,
 Kian Paimani, Francisco Aguirre and Oliver Tale-Yazdi
 
 ## Deliverables
