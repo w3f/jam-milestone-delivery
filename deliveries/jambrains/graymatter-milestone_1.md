@@ -21,7 +21,7 @@
 
 We declare that:
 
-- [ ] we have completed **the Web3 Foundation KYC/KYB process**.
+- [x] we have completed **the Web3 Foundation KYC/KYB process**.
 - [x] we used **a clear and permissive open-source license**.
 - [x] we submitted **code developed in private, with commit hashes placed, in a timely fashion, on a major public blockchain**.
 - [x] we used third party libraries for: **cryptographic primitives** (e.g. erasure-coding, Bandersnatch, Ed25519) | **networking** (e.g. QUIC) | **TLS certificate generation** | **Blake2 hashing**.
@@ -37,7 +37,7 @@ We declare that:
 >Please present your rationale for the completion of this milestone by connecting the deliverables and describing their purpose.
 
 We present you hereby with an implementation of the *Gray Paper v0.7.2* to claim the first milestone of the [JAM Prize](https://jam.web3.foundation/) as defined by the Web3 foundation.  
-Our implementation *GrayMatter* passes all public conformance tests is continously being improved to pass additional tests.
+Our implementation *GrayMatter* passes all public conformance tests is continously being improved to pass additional tests. The repository is hosted privately on GitHub, please forward us the list of people that need access to `@oliver.tale-yazdi:parity.io` on matrix.
 
 Best Regards from the JamBrains team,
 Kian Paimani, Francisco Aguirre and Oliver Tale-Yazdi
@@ -52,24 +52,12 @@ Kian Paimani, Francisco Aguirre and Oliver Tale-Yazdi
 - [ ] 4. FULL-SPEED: Conformance and Polkadot-level performance (including PVM implementation).
 - [ ] 5. SECURE: Fully audited.
 
->Please provide a list of all deliverables for the milestone and include links to the actual deliverables.
-
->Ideally all links inside the table below should include a commit hash, which will be used for testing. If you don't provide a commit hash, we will work off the default branch of your repository. Thus, if you plan on continuing work after delivery, we suggest you create a separate branch for either the delivery or your continuing work.
-
->If there is anything particular about any of the deliverables we or a future reader should know, use the respective Notes column.
-
-| Number	| Deliverable	| Link	 | Notes |
-|---------|-------------|--------|-------|
-|1.	      | GrayMatter	        | https://github.com/JamBrains/graymatter/tree/TODO	   | Elixir Source Code (commit TODO)    |
-|2.	      | Docker Image	        | 	   | M1 fuzzer image (sha256 TODO) |
-|3.	      |...	        | ...	   |...    |
-|4.	      |...	        | ...	   |...    |
-|5.	      |...	        | ...	   |...    |
-
+| Number | Deliverable  | Link   | Notes |
+|--------|--------------|--------|-------|
+|1.	     | GrayMatter   | https://github.com/JamBrains/graymatter/commits/milestone-1-rc1 | Elixir Source Code (tag `milestone-1-rc1`) |
+|2.	     | Docker Image |  | M1 fuzzer image (sha256 TODO) |
 
 ## Additional Information
-
->Provide any relevant comments on the milestone submission that you would like to share with us.
 
 **Remarking**  
 We remarked our master commit hashes to the Polkadot "collectives" chain from the following acc 
