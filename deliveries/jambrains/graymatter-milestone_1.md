@@ -2,8 +2,6 @@
 
 # JAM Milestone Delivery 
 
-> Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with >, such as this one, can be removed.
-
 ## Company/Team details
 
 >Please provide all the required information below.
@@ -14,11 +12,6 @@
 - Link to previous delivery: n/a
 
 ## Documentation checklist
-
->Please check the boxes to confirm that you have provided all the required documentation, providing direct links whenever possible. **DO NOT** include links to confidential or private documents.
-
->Chose the relevant option(s) (e.g. Option A | Option B | etc.) and delete the rest.
-
 We declare that:
 
 - [x] we have completed **the Web3 Foundation KYC/KYB process**.
@@ -34,17 +27,13 @@ We declare that:
 
 ## Context
 
->Please present your rationale for the completion of this milestone by connecting the deliverables and describing their purpose.
-
 We present you hereby with an implementation of the *Gray Paper v0.7.2* to claim the first milestone of the [JAM Prize](https://jam.web3.foundation/) as defined by the Web3 foundation.  
 Our implementation *GrayMatter* passes all public conformance tests is continously being improved to pass additional tests. The repository is hosted privately on GitHub, please forward us the list of people that need access to `@oliver.tale-yazdi:parity.io` on matrix.
 
-Best Regards from the JamBrains team,
+Best Regards from the JamBrains team,  
 Kian Paimani, Francisco Aguirre and Oliver Tale-Yazdi
 
 ## Deliverables
-
->Please check the relevant box to indicate which milestone you are delivering.
 
 - [x] 1. IMPORTER: State-transitioning conformance tests pass and can import blocks.
 - [ ] 2. AUTHOR: Fully conformant and can produce blocks (including networking, off-chain).
@@ -55,7 +44,7 @@ Kian Paimani, Francisco Aguirre and Oliver Tale-Yazdi
 | Number | Deliverable  | Link   | Notes |
 |--------|--------------|--------|-------|
 |1.	     | GrayMatter   | https://github.com/JamBrains/graymatter/commits/milestone-1-rc1 | Elixir Source Code (tag `milestone-1-rc1`) |
-|2.	     | Docker Image |  | M1 fuzzer image (sha256 TODO) |
+|2.	     | Docker Image | `ghcr.io/jambrains/graymatter/gm@sha256:2cc37f1b8e0b88f47fe11b4dd717a19557331fec6457984ef4b0a1973dd9c27b` | M1 fuzzer image (sha256 `2cc37f1b8e0b88f47fe11b4dd717a19557331fec6457984ef4b0a1973dd9c27b`) |
 
 ## Additional Information
 
