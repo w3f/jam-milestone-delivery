@@ -30,7 +30,7 @@ Updated September 2024
 
 4.1. Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests are requirements and will be run on standard hardware.
 
-4.2. Clean-room implementation using the Graypaper and public implementor chat channels as the only resource is mandatory.
+4.2. Clean-room implementation using the [Graypaper](https://graypaper.com/graypaper.pdf) and public implementor chat channels as the only resource is mandatory.
 
 4.3. Any JAM-implementation code which is viewed before or during implementation must be declared.
 
@@ -48,7 +48,7 @@ Updated September 2024
 
 6.1. An interview may be requested by the Foundation after the submission is made to provide further clarifications regarding the submission.
 
-6.2. Following the accepted completion of each milestone, the Participant may nominate one Fellowship candidate/member to be promoted directly to Rank III and (optionally) a second candidate/member to Rank II. More information about the ranks can be found on the Polkadot Fellowship Manifesto.
+6.2. Following the accepted completion of each milestone, the Participant may nominate one Fellowship candidate/member to be promoted directly to Rank III and (optionally) a second candidate/member to Rank II. More information about the ranks can be found on the [Polkadot Fellowship Manifesto](https://github.com/polkadot-fellows/manifesto/blob/main/manifesto.pdf).
 
 6.3. A clear Git history and public, credibly timestamped commits are necessary to help evidence organic code development by the team(s).
 
@@ -96,7 +96,7 @@ The Participant's obligation to indemnify the Indemnified Parties shall survive 
 
 10.1. The Participant acknowledges and agrees that the Foundation will collect and process personal data submitted by the Participant through the application form (such as an email address, Matrix handle, X handle, etc.) on the basis of legitimate interests for the purposes of facilitating the Participant’s participation in the Competition, and that this data may be shared with third parties.
 
-10.2. The Foundation will handle personal data in accordance with applicable data protection laws and regulations. The details of how the data will be processed, as well as the respective data subject rights can be found in this privacy policy. Additionally, the data collected during the KYC process will be processed by Sum and Substance Ltd in accordance with their privacy policy.
+10.2. The Foundation will handle personal data in accordance with applicable data protection laws and regulations. The details of how the data will be processed, as well as the respective data subject rights can be found in [this privacy policy](https://web3.foundation/privacy-and-cookies/). Additionally, the data collected during the KYC process will be processed by Sum and Substance Ltd in accordance with [their privacy policy](https://sumsub.com/privacy-notice-service/).
 
 ## 11.  Exclusion of Liability
 

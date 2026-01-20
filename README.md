@@ -8,7 +8,7 @@
 
 ## Process
 
-Prior to submitting your first milestone, please make sure that you have successfully completed a [KYB](https://in.sumsub.com/idensic/l/#/uni_LhZH9SdrmtuvGnnz) (or, if you work alone, a [KYC](https://in.sumsub.com/idensic/l/#/uni_ZUSbgdezo6hdrZVn)) check.
+Prior to submitting your first milestone, please make sure that you have successfully completed a [KYB](https://in.sumsub.com/websdk/p/uni_6eVGNmoJ83HVovnN) (or, if you work alone, a [KYC](https://in.sumsub.com/websdk/p/uni_6qX6Ju3vlfrMQbbG)) check.
 
 ### Milestone Delivery:
   1. Make sure that your delivery adheres to the [JAM Prize rules](https://jam.web3.foundation/rules).
