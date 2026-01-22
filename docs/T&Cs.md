@@ -26,6 +26,8 @@ Updated September 2024
 
 3.4. Code must be idiomatic for languages that define idioms.
 
+3.5. All submissions have to conform to the latest graypaper release.
+
 ## 4.  Performance and Implementation
 
 4.1. Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests are requirements and will be run on standard hardware.
