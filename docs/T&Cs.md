@@ -26,6 +26,8 @@ Updated September 2024
 
 3.4. Code must be idiomatic for languages that define idioms.
 
+3.5. Submissions must be conformant to the latest Graypaper release. Conformance is assessed against the latest release in effect at the time of the Foundation’s evaluation. Where a Graypaper release is updated while a Participant is preparing, submitting, or awaiting review of a Submission, the Participant must promptly modify its Submission and any related materials to ensure conformance with the updated Greypaper release.
+
 ## 4.  Performance and Implementation
 
 4.1. Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests are requirements and will be run on standard hardware.
@@ -62,13 +64,24 @@ Updated September 2024
 
 ## 8.  Prizes and Payments
 
-8.1. The Prize pool is limited. Prizes will be awarded on a first-come, first-served basis, based on the order of valid submissions received. The Prizes are paid to the earliest Polkadot/Kusama account IDs stated in the repository's README. In the case of a tie, the payment will be split equally.
+8.1. 
+1. The Prize pool is limited. Prizes will be awarded on a first-come, first-served basis, by reference to based on the Submission Timestamporder of each valid submissions received. 
+
+2. A Submission is deemed received when the Submission materials are first made available in the designated public GitHub repository in the manner specified by the Foundation (the “Submission Timestamp”).
+
+3. A Submission will be treated as a Valid Submission for ordering purposes as of its Submission Timestamp provided it satisfies the Minimum Eligibility Requirements (as determined by the Foundation as part of the evaluation process). The Foundation’s evaluation process, and the timing of completion of such evaluation, shall not alter the ordering of Valid Submissions by Submission Timestamp. 
+
+4. Where a Submission satisfies the Minimum Eligibility Requirements but does not otherwise fully comply with these Terms or the applicable submission requirements, the Foundation may (but is not obliged to) grant the Participant a single cure period of up to fourteen (14) days to remedy the identified deficiencies (the “Cure Period”). If the deficiencies are remedied within the Cure Period to the Foundation’s satisfaction, the Submission will retain its Submission Timestamp for ordering purposes. The Cure Period is intended to address non-material deficiencies and does not apply where the Submission fails to meet the Minimum Eligibility Requirements.
+
+5. If the Participant fails to remedy the deficiencies within the Cure Period, or the remedial changes do not address the deficiencies identified by the Foundation, the Submission may be rejected and will not be eligible for any Prize.
+
+6. The evaluation process shall not impact the order of valid submissions received. Within the evaluation process a team may be given a two week grace period to rectify potential shortcomings. The Prizes are paid to the earliest Polkadot/Kusama account IDs stated in the repository's README. In the case of a tie, the payment will be split equally.
 
 8.2. The amount of this Prize, as well as its allocation to a specific Participant of the Competition, is at the sole discretion of the Foundation. Once the Prize pool is exhausted, no further Prizes will be awarded, regardless of the number of Participants or the quality of submissions. Prize pools may be redistributed and reallocated if a pot is nearing depletion, subject to the following conditions: (i) a 3-month notice period must be provided and (ii) no more than 25% of the Prize pool may be scheduled for redistribution at any one time.
 
 8.3. The Participants accept and acknowledge that at least 75% of the Prize allocated to the Participant will be subject to a "vested transfer" mechanism, wherein the DOTs will be locked in a wallet address specified by the Participant and will vest linearly over a period of twenty-four (24) months (the “Vesting Period”). This means that the full amount of the Prize will be completely unlocked within twenty-four (24) months from the date of the transfer of the Prize to the Participant’s wallet address. The Participant acknowledges and agrees that until the full Vesting Period is completed, it will only be able to dispose of the Prize to the extent that it has been released according to the underlying rules of the protocol. The Participant acknowledges that, despite the vesting mechanism, it assumes all ownership and risk associated with the Prize from the date of transfer, including compliance with any applicable tax obligations relating to the Prize. The Foundation shall not be responsible for any fluctuations in the value of the DOT.
 
-8.4. The Prize will be awarded no earlier than the ratification by the Polkadot Fellowship of version 1.0 of the JAM protocol. The payment will be made by the Foundation within 30-days of the receipt of a valid invoice issued in line with [this invoice template](https://docs.google.com/spreadsheets/d/16BlspUpfqFqBc5nQRK_dUNmpXHUBXlQC6P8an_f29yM/edit?usp=sharing).
+8.4. The Prize for the final milestone of each “Path to Implementation" will be awarded no earlier than the ratification by the Polkadot Fellowship of version 1.0 of the JAM protocol. All “Paths to Implementation” and every milestone within each “Path Implementation” are listed here: https://jam.web3.foundation/ and can be amended from time to time. The payment will be made by the Foundation within 30-days of the receipt of a valid invoice issued in line with [this invoice template](https://docs.google.com/spreadsheets/d/16BlspUpfqFqBc5nQRK_dUNmpXHUBXlQC6P8an_f29yM/edit?usp=sharing).
 
 8.5. If the team consists of multiple individuals but does not operate through a legal entity, the Foundation will transfer the reward to a team member designated by the team. The reward will be sent to a wallet address indicated by the designated team member. The Foundation bears no responsibility for the internal distribution of the reward between team members.
 
@@ -105,5 +118,18 @@ In no event shall the Foundation be liable to the Participant in respect of any 
 ## 12.  Governing Law and Jurisdiction
 
 These Terms shall be governed, construed, and enforced in accordance with the laws of Switzerland, without giving effect to its conflict of laws principles. The courts of the Canton of Zug shall have exclusive jurisdiction to settle any disputes arising out of it or in connection with the Competition and this Agreement.
+
+## 13. Amendments to the Terms and Conditions
+
+1. The Foundation may amend these Terms from time to time at its sole discretion.
+
+2. Material changes will be communicated to Participants through reasonable means, such as via email or an announcement on the Foundation’s official communication channels.
+
+3. Any such changes shall take effect on the day following their communication by the Foundation in accordance with Clause 13.2.
+
+4. Continued participation constitutes acceptance of the amended Terms.
+
+5. If a Participant does not agree to an amendment of the Terms, the Participant may withdraw from the Competition with immediate effect upon communicating to the Foundation.
+
 
 **(x) By participating in the Competition, you agree to comply with these Terms and all decisions made by the Foundation and judges. Failure to adhere to any of the above Terms may result in disqualification.**
