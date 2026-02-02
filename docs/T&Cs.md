@@ -26,7 +26,7 @@ Updated September 2024
 
 3.4. Code must be idiomatic for languages that define idioms.
 
-3.5. Submissions must be conformant to the latest Graypaper release. Conformance is assessed against the latest release in effect at the time of the Foundation’s evaluation. Where a Graypaper release is updated while a Participant is preparing, submitting, or awaiting review of a Submission, the Participant must promptly modify its Submission and any related materials to ensure conformance with the updated Greypaper release.
+3.5. Submissions must be conformant to the latest Graypaper release. Conformance is assessed against the latest release in effect at the time of the Foundation’s evaluation. Where a Graypaper release is updated while a Participant is preparing, submitting, or awaiting review of a Submission, the Participant must promptly modify its Submission and any related materials to ensure conformance with the updated Graypaper release.
 
 ## 4.  Performance and Implementation
 
