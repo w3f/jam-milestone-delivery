@@ -28,7 +28,7 @@ In June 2024, Arjan and Emiel begin exploring a Python implementation of the JAM
 
 | Number	| Deliverable	| Link	 | Notes |
 |---------|-------------|--------|-------|
-|1.	      |v0.7.2 M1 Fuzzer Target |[Docker Hub](https://hub.docker.com/r/jamdottech/pyjamaz) | Tag: `v0.1.44-gp0.7.2` or `latest`; [JAM Conformance Repository](https://github.com/davxy/jam-conformance/blob/main/scripts/targets.json)  |
+|1.	      |v0.7.2 M1 Fuzzer Target |[Docker Hub](https://hub.docker.com/r/jamdottech/pyjamaz) | Tag: `v0.1.45-gp0.7.2` or `latest`; [JAM Conformance Repository](https://github.com/davxy/jam-conformance/blob/main/scripts/targets.json)  |
 |2.	      |v0.7.2 M1 Source Code |[GitHub](https://github.com/JAMdotTech/pyjamaz) |Web3 Foundation or Fellowship reviewers can be granted access on request |
 
 ## Additional Information
