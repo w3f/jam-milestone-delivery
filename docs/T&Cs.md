@@ -65,7 +65,7 @@ Updated September 2024
 ## 8.  Prizes and Payments
 
 8.1. 
-1. The Prize pool is limited. Prizes will be awarded on a first-come, first-served basis, by reference to based on the Submission Timestamporder of each valid submissions received. 
+1. The Prize pool is limited. Prizes will be awarded on a first-come, first-served basis, by reference to based on the Submission Timestamp order of each valid submissions received. 
 
 2. A Submission is deemed received when the Submission materials are first made available in the designated public GitHub repository in the manner specified by the Foundation (the “Submission Timestamp”).
 
