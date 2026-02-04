@@ -15,7 +15,12 @@ We declare that:
 - [x] we have completed **the Web3 Foundation KYC/KYB process**.
 - [x] we used **a clear and permissive open-source license**.
 - [x] we submitted **code developed in private, with commit hashes placed, in a timely fashion, on a major public blockchain**.
-- [x] we used third party libraries for: **cryptographic primitives** (reed-solomon-simd, @noble/curves, @noble/hashes), **networking** (e.g. QUIC).
+- [x] we used third party libraries for: **cryptographic primitives**:
+1. Rust (reed-solomon-simd 3.0.1)
+2. @noble/curves, @noble/ed25519, @noble/hashes
+3. @peculiar/webcrypto, @peculiar/x509
+4. @infisical/quic
+5. Ark-vrf 
 - [ ] we provided **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
 - [ ] we viewed the following **JAM implementation code** before | during our implementation.
 - [x] we have not had private conversations with **other | the following implementers**.
