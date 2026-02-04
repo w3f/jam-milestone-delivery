@@ -64,18 +64,17 @@ Updated September 2024
 
 ## 8.  Prizes and Payments
 
-8.1. 
-1. The Prize pool is limited. Prizes will be awarded on a first-come, first-served basis, by reference to based on the Submission Timestamp order of each valid submissions received. 
+8.1.1. The Prize pool is limited. Prizes will be awarded on a first-come, first-served basis, by reference to based on the Submission Timestamp order of each valid submissions received. 
 
-2. A Submission is deemed received when the Submission materials are first made available in the designated public GitHub repository in the manner specified by the Foundation (the “Submission Timestamp”).
+8.1.2. A Submission is deemed received when the Submission materials are first made available in the designated public GitHub repository in the manner specified by the Foundation (the “Submission Timestamp”).
 
-3. A Submission will be treated as a Valid Submission for ordering purposes as of its Submission Timestamp provided it satisfies the Minimum Eligibility Requirements (as determined by the Foundation as part of the evaluation process). The Foundation’s evaluation process, and the timing of completion of such evaluation, shall not alter the ordering of Valid Submissions by Submission Timestamp. 
+8.1.3. A Submission will be treated as a Valid Submission for ordering purposes as of its Submission Timestamp provided it satisfies the Minimum Eligibility Requirements (as determined by the Foundation as part of the evaluation process). The Foundation’s evaluation process, and the timing of completion of such evaluation, shall not alter the ordering of Valid Submissions by Submission Timestamp. 
 
-4. Where a Submission satisfies the Minimum Eligibility Requirements but does not otherwise fully comply with these Terms or the applicable submission requirements, the Foundation may (but is not obliged to) grant the Participant a single cure period of up to fourteen (14) days to remedy the identified deficiencies (the “Cure Period”). If the deficiencies are remedied within the Cure Period to the Foundation’s satisfaction, the Submission will retain its Submission Timestamp for ordering purposes. The Cure Period is intended to address non-material deficiencies and does not apply where the Submission fails to meet the Minimum Eligibility Requirements.
+8.1.4. Where a Submission satisfies the Minimum Eligibility Requirements but does not otherwise fully comply with these Terms or the applicable submission requirements, the Foundation may (but is not obliged to) grant the Participant a single cure period of up to fourteen (14) days to remedy the identified deficiencies (the “Cure Period”). If the deficiencies are remedied within the Cure Period to the Foundation’s satisfaction, the Submission will retain its Submission Timestamp for ordering purposes. The Cure Period is intended to address non-material deficiencies and does not apply where the Submission fails to meet the Minimum Eligibility Requirements.
 
-5. If the Participant fails to remedy the deficiencies within the Cure Period, or the remedial changes do not address the deficiencies identified by the Foundation, the Submission may be rejected and will not be eligible for any Prize.
+8.1.5. If the Participant fails to remedy the deficiencies within the Cure Period, or the remedial changes do not address the deficiencies identified by the Foundation, the Submission may be rejected and will not be eligible for any Prize.
 
-6. The evaluation process shall not impact the order of valid submissions received. Within the evaluation process a team may be given a two week grace period to rectify potential shortcomings. The Prizes are paid to the earliest Polkadot/Kusama account IDs stated in the repository's README. In the case of a tie, the payment will be split equally.
+8.1.6. The evaluation process shall not impact the order of valid submissions received. Within the evaluation process a team may be given a two week grace period to rectify potential shortcomings. The Prizes are paid to the earliest Polkadot/Kusama account IDs stated in the repository's README. In the case of a tie, the payment will be split equally.
 
 8.2. The amount of this Prize, as well as its allocation to a specific Participant of the Competition, is at the sole discretion of the Foundation. Once the Prize pool is exhausted, no further Prizes will be awarded, regardless of the number of Participants or the quality of submissions. Prize pools may be redistributed and reallocated if a pot is nearing depletion, subject to the following conditions: (i) a 3-month notice period must be provided and (ii) no more than 25% of the Prize pool may be scheduled for redistribution at any one time.
 
