@@ -41,13 +41,13 @@ We declare that:
 
 ## Deliverables
 
->Please check the relevant box to indicate which milestone you are delivering.
+>Please indicate which **path** and **milestone** you are targeting. See [here](https://jam.web3.foundation/) for additional information.
 
-- [ ] 1. IMPORTER: State-transitioning conformance tests pass and can import blocks.
-- [ ] 2. AUTHOR: Fully conformant and can produce blocks (including networking, off-chain).
-- [ ] 3. HALF-SPEED: Conformance and Kusama-level performance (including PVM implementation).
-- [ ] 4. FULL-SPEED: Conformance and Polkadot-level performance (including PVM implementation).
-- [ ] 5. SECURE: Fully audited.
+- [ ] 1. Validating Node Path
+- [ ] 2. Non-PVM Validating Node Path
+- [ ] 3. Light Node Path
+
+- **Milestone:**
 
 
 >Please provide a list of all deliverables for the milestone and include links to the actual deliverables.
