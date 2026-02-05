@@ -37,19 +37,22 @@ These additional components are currently in an active phase of testing, validat
 
 ## Deliverables
 
-- [X] 1. IMPORTER: State-transitioning conformance tests pass and can import blocks.
-- [ ] 2. AUTHOR: Fully conformant and can produce blocks (including networking, off-chain).
-- [ ] 3. HALF-SPEED: Conformance and Kusama-level performance (including PVM implementation).
-- [ ] 4. FULL-SPEED: Conformance and Polkadot-level performance (including PVM implementation).
-- [ ] 5. SECURE: Fully audited.
+>Please indicate which **path** and **milestone** you are targeting. See [here](https://jam.web3.foundation/) for additional information.
 
-| Number	| Deliverable	         | Link	 | Notes                                          |
-|---------|----------------------|--------|------------------------------------------------|
-|1.	      | 0.7.2 fuzzer target	 | https://github.com/methodfive/javajam/pkgs/container/javajam/605650944?tag=latest-amd64	   | |
-|2.	      | JavaJAM source code	 | https://github.com/methodfive/javajam	   | Access granted on demand.                      |
-|3.	      | ...	                 | ...	   | ...                                            |
-|4.	      | ...	                 | ...	   | ...                                            |
-|5.	      | ...	                 | ...	   | ...                                            |
+- [X] Validating Node Path
+- [ ] Non-PVM Validating Node Path
+- [ ] Light Node Path
+
+
+- **Milestone:** 1
+
+| Number	| Deliverable	         | Link	 | Notes                |
+|---------|----------------------|--------|----------------------|
+|1.	      | 0.7.2 fuzzer target	 | https://github.com/methodfive/javajam/pkgs/container/javajam/605650944?tag=latest-amd64	   |                      |
+|2.	      | JavaJAM source code	 | https://github.com/methodfive/javajam	   | m1-submission branch |
+|3.	      | ...	                 | ...	   | ...                  |
+|4.	      | ...	                 | ...	   | ...                  |
+|5.	      | ...	                 | ...	   | ...                  |
 
 
 ## Additional Information
