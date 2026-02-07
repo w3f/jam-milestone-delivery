@@ -4,15 +4,15 @@
 
 - Company/Team's name: Wolk Inc (dba Colorful Notion) 
 - Company/Team's GitHub: 
-  - https://github.com/jam-duna/jam (code)
+  - https://github.com/jam-duna/jamduna (code)
   - https://github.com/jam-duna/jamtestnet/releases (Fuzzer Target)
 - X: [https://x.com/colorfulnotion](https://x.com/colorfulnotion)
 - Programming language and language set: Go (Set A), supported by C (recompiler) + Rust (BLS/Bandersnatch FFI)
 
 Team members:
-* [Sourabh Niyogi](https://github.com/jam-duna/jam/commits?author=sourabhniyogi) (active, Summer 2024-present)
-* [Michael Yi Chung](https://github.com/jam-duna/jam/commits?author=mkchungs) (active, Summer 2024-present)
-* [Shawn Chung](https://github.com/jam-duna/jam/commits?author=yoyo2325) (active, Fall 2024-present) 
+* [Sourabh Niyogi](https://github.com/jam-duna/jamduna/commits?author=sourabhniyogi) (active, Summer 2024-present)
+* [Michael Yi Chung](https://github.com/jam-duna/jamduna/commits?author=mkchungs) (active, Summer 2024-present)
+* [Shawn Chung](https://github.com/jam-duna/jamduna/commits?author=yoyo2325) (active, Fall 2024-present) 
 * Tapas Jana (active, Fall 2024-present, eng support)
 * William Wu, Stanley Liu, Sean Tsu (inactive, Fall 2024 - Winter 2025)
 
@@ -82,7 +82,7 @@ Milestone: M1
 | Number	| Deliverable	         | Link	 | Notes                                          |
 |---------|----------------------|--------|------------------------------------------------|
 |1.	      | 0.7.2 Fuzzer target	 | [github.com/jam-duna/jamtestnet](https://github.com/jam-duna/jamtestnet/releases)	   | |
-|2.	      | Source code | [github.com/jam-duna/jam](https://github.com/jam-duna/jam)	   | Public                      |
+|2.	      | Source code | [github.com/jam-duna/jamduna](https://github.com/jam-duna/jamduna)	   | Public                      |
 |3.	      | Commit history	 | [Subscan](https://assethub-polkadot.subscan.io/extrinsic?module=system&call=remark_with_event&signed=all&page=1&time_dimension=date&address=121Rs6fKm8nguHnvPfG1Cq3ctFuNAVZGRmghwkJwHpKxKjbx)	   | ...                                            |
 |4.	      | ...	                 | ...	   | ...                                            |
 |5.	      | ...	                 | ...	   | ...                                            |
