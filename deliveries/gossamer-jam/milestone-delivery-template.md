@@ -44,7 +44,7 @@ We declare that:
 
 >Please present your rationale for the completion of this milestone by connecting the deliverables and describing their purpose.
 
-Gossamer-Jam is a JAM node implementation in Golang by ChainSafe.
+Gossamer-JAM is a JAM node implementation in Go by ChainSafe.
 
 The latest binary release passes all the public [test vectors](https://github.com/davxy/jam-test-vectors) and [conformance tests](https://github.com/davxy/jam-conformance) provided by the Web3 Foundation for M1.
 
