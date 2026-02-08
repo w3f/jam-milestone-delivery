@@ -7,7 +7,7 @@
 
 >Please provide all the required information below.
 
-- Company/Team's name: Chainsafe
+- Company/Team's name: ChainSafe
 - Company/Team's GitHub: https://github.com/ChainSafe
 - Programming language and language set: Go (language set A)
 - Link/s to previous delivery/ies: N.A
