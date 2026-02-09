@@ -1,7 +1,7 @@
 JAM Prize Terms and Conditions
 ===========================
 
-Updated February 2025
+Updated February 2026
 
 
 ## 1.  Introduction
