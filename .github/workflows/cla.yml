@@ -18,7 +18,8 @@ jobs:
     steps:
       - name: "T&C Assistant"
         continue-on-error: true  # Don't fail the entire workflow so a comment can be created.
-        if: (github.event.comment.body == 'recheck' || github.event.comment.body == 'I have read and hereby sign the Contributor License Agreement.') || github.event_name == 'pull_request_target'
+        id: cla-check
+        if: github.event.comment.body == 'recheck' || github.event.comment.body == 'I have read and hereby sign the latest JAM Prize Terms and Conditions.' || github.event_name == 'pull_request_target'
         uses: contributor-assistant/github-action@v2.4.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -45,7 +46,7 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            github.rest.issues.createComment({
+            await github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
