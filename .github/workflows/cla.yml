@@ -17,7 +17,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "T&C Assistant"
-        if: (github.event.comment.body == 'recheck' || github.event.comment.body == 'I have read and hereby sign the Contributor License Agreement.') || github.event_name == 'pull_request_target'
+        continue-on-error: true  # Don't fail the entire workflow so a comment can be created.
+        id: cla-check
+        if: github.event.comment.body == 'recheck' || github.event.comment.body == 'I have read and hereby sign the latest JAM Prize Terms and Conditions.' || github.event_name == 'pull_request_target'
         uses: contributor-assistant/github-action@v2.4.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -38,3 +40,15 @@ jobs:
           custom-allsigned-prcomment: '**T&C Assistant Lite bot** All Contributors have signed the latest T&Cs.'
           lock-pullrequest-aftermerge: false # if you don't want this bot to automatically lock the pull request after merging (default - true)
           #use-dco-flag: true - If you are using DCO instead of CLA
+
+      - name: "Comment on failure"
+        if: steps.cla-check.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: 'Thank you for your submission. Please note that you need to accept our latest [Terms and Conditions](https://github.com/w3f/jam-milestone-delivery/blob/main/docs/T&Cs.md) before your submission can be considered for the JAM Prize. Please submit the following text as a separate comment:\n\n`I have read and hereby sign the latest JAM Prize Terms and Conditions.`'
+            })
