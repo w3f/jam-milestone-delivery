@@ -26,8 +26,7 @@ jobs:
           # This token is required only if you have configured to store the signatures in a remote repository/organization
           PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
-          path-to-signatures: 'signatures/version1/cla.json'
-          path-to-document: 'https://docs.google.com/document/d/1yLuBr0eJab2tChvyKLepOrFHfw-OIX-WtXL1YVTEelw/edit'
+          path-to-signatures: 'signatures/version2/cla.json'
           # branch should not be protected
           branch: 'master'
          # the followings are the optional inputs - If the optional inputs are not given, then default values will be taken
@@ -35,9 +34,9 @@ jobs:
           remote-repository-name: jam-cla
           #create-file-commit-message: 'For example: Creating file for storing CLA Signatures'
           #signed-commit-message: 'For example: $contributorName has signed the CLA in $owner/$repo#$pullRequestNo'
-          custom-notsigned-prcomment: 'Thank you for your submission. Please note that you need to accept our [Terms and Conditions](https://github.com/w3f/jam-milestone-delivery/blob/main/docs/T&Cs.md) before your submission can be considered for the JAM Prize. Please submit the following text as a separate comment:'
-          custom-pr-sign-comment: 'I have read and hereby sign the JAM Prize Terms and Conditions.'
-          custom-allsigned-prcomment: '**T&C Assistant Lite bot** All Contributors have signed the T&Cs.'
+          custom-notsigned-prcomment: 'Thank you for your submission. Please note that you need to accept our latest [Terms and Conditions](https://github.com/w3f/jam-milestone-delivery/blob/main/docs/T&Cs.md) before your submission can be considered for the JAM Prize. Please submit the following text as a separate comment:'
+          custom-pr-sign-comment: 'I have read and hereby sign the latest JAM Prize Terms and Conditions.'
+          custom-allsigned-prcomment: '**T&C Assistant Lite bot** All Contributors have signed the latest T&Cs.'
           lock-pullrequest-aftermerge: false # if you don't want this bot to automatically lock the pull request after merging (default - true)
           #use-dco-flag: true - If you are using DCO instead of CLA
 
