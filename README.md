@@ -6,14 +6,9 @@
 
 # JAM Prize Milestone Delivery
 
-> [!CAUTION]
-> ⚠️ IMPORTANT NOTICE FOR JAM IMPLEMENTERS ⚠️
-> 
-> Please note that **no milestone submission will probably be accepted** until Graypaper v1.0 is available. You can track the latest releases by watching this repository: https://github.com/gavofyork/graypaper
-
 ## Process
 
-Prior to submitting your first milestone, please make sure that you have successfully completed a [KYB](https://in.sumsub.com/idensic/l/#/uni_LhZH9SdrmtuvGnnz) (or, if you work alone, a [KYC](https://in.sumsub.com/idensic/l/#/uni_ZUSbgdezo6hdrZVn)) check.
+Prior to submitting your first milestone, please make sure that you have successfully completed a [KYB](https://in.sumsub.com/websdk/p/uni_6eVGNmoJ83HVovnN) (or, if you work alone, a [KYC](https://in.sumsub.com/websdk/p/uni_6qX6Ju3vlfrMQbbG)) check.
 
 ### Milestone Delivery:
   1. Make sure that your delivery adheres to the [JAM Prize rules](https://jam.web3.foundation/rules).
@@ -48,6 +43,12 @@ Please check the [JAM Prize website](https://jam.web3.foundation/) for participa
 We take licensing and the right of all teams in and outside the ecosystem to be recognized for their work very seriously. Using others' work without attribution or indication that this was not your own work as part of a milestone delivery **will lead to immediate disqualification**. Please reach out to us at jam[at]web3.foundation before submitting if you have any doubts about how to comply with a specific license, and we'll be happy to help.
 
 If you suspect that a JAM Prize submission is based on plagiarized code, please also reach out to jam[at]web3.foundation. 
+
+## KYB/KYC
+
+NOTICE: 
+In connection with your participation in an ecosystem initiative organised by Web 3.0 Technologies Foundation, you agree to the processing of your personal data for identity verification, in order to prevent fraud, ensure eligibility, and maintain the integrity of our processes. This processing is based on legitimate interests under the EU General Data 
+Protection Regulation and on justified organisational needs under the Swiss Federal Act on Data Protection. Please follow these links to complete the [KYC (Know Your Customer)](https://in.sumsub.com/websdk/p/uni_6qX6Ju3vlfrMQbbG) or [KYB (Know Your Business)](https://in.sumsub.com/websdk/p/uni_6eVGNmoJ83HVovnN) process. Your information will be handled in line with the [Web3 Foundation Privacy and Cookies Policy](https://web3.foundation/privacy-and-cookies/) and the [Sumsub Privacy Notice](https://sumsub.com/privacy-notice-service/).
 
 ## License <!-- omit in toc -->
 
