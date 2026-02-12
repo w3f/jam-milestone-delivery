@@ -27,7 +27,8 @@ We declare that:
 - [x] we used third party libraries for: **cryptographic primitives** (e.g. erasure-coding, Bandersnatch, Ed25519) | **codecs** (e.g. SCALE) | **networking** (e.g. QUIC).
   - **cryptographic primitives**
     - Ed25519: [golang.org/x/crypto](https://pkg.go.dev/golang.org/x/crypto)
-    - Bandersnatch [ark-vrf](https://github.com/davxy/ark-vrf)
+    - Bandersnatch: [ark-vrf](https://github.com/davxy/ark-vrf)
+    - Keccak: [go-ethereum/crypto](github.com/ethereum/go-ethereum/crypto)
   - **codecs**: None for M1
   - **networking**: None for M1
 - [ ] we provided **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
