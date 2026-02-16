@@ -13,7 +13,7 @@ We declare that:
 
 - [x] we have completed **the Web3 Foundation KYC/KYB process**.
 - [x] we used **a clear and permissive open-source license**.
-- [x] we submitted **a clear Git history and public, credibly timestamped commits**
+- [x] we submitted **a clear Git history, credibly timestamped commits in a private github repository**
 - [x] we used third party libraries for:
   - **cryptographic primitives**: `ark-*`, `blake2`, `ed25519-zebra`, `tiny-keccak`, `w3f-bls`, `w3f-ring-proof`, `rcgen`
   - **networking**: `quinn`
@@ -55,10 +55,6 @@ We have the best performance overall third-parity implementations according to [
 | 3.     | Jade Framework           | [spacejamapp/jade][jade]         | For writing PVM programs        |
 | 4.     | SpaceVM ABI              | [spacejamapp/spacevm][spacevm]   | sys library for calling SpaceVM |
 | 5.     | PVM Code tables          | [pvm-codes][codes]               | website for learning PVM        |
-
-## Additional Information
-
-We propose [@clearloop][clearloop] for fellowship membership.
 
 [v0.7.2]: https://github.com/spacejamapp/specjam/releases/tag/0.7.2
 [spacejam]: https://github.com/spacejamapp/spacejam
