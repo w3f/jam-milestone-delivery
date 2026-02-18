@@ -46,13 +46,13 @@ These additional components are currently in an active phase of testing, validat
 
 - **Milestone:** 1
 
-| Number	| Deliverable	         | Link	 | Notes                |
-|---------|----------------------|--------|----------------------|
-|1.	      | 0.7.2 fuzzer target	 | https://github.com/methodfive/javajam/pkgs/container/javajam/605650944?tag=latest-amd64	   |                      |
-|2.	      | JavaJAM source code	 | https://github.com/methodfive/javajam	   | m1-submission branch |
-|3.	      | ...	                 | ...	   | ...                  |
-|4.	      | ...	                 | ...	   | ...                  |
-|5.	      | ...	                 | ...	   | ...                  |
+| Number	| Deliverable	         | Link	 | Notes                                            |
+|---------|----------------------|--------|--------------------------------------------------|
+|1.	      | 0.7.2 fuzzer target	 | https://github.com/methodfive/javajam/pkgs/container/javajam/605650944?tag=latest-amd64	   |                                                  |
+|2.	      | JavaJAM source code	 | https://github.com/methodfive/javajam	   | Private repository. Access granted upon request. |
+|3.	      | ...	                 | ...	   | ...                                              |
+|4.	      | ...	                 | ...	   | ...                                              |
+|5.	      | ...	                 | ...	   | ...                                              |
 
 
 ## Additional Information
