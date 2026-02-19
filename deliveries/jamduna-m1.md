@@ -82,7 +82,7 @@ Milestone: M1
 | Number	| Deliverable	         | Link	 | Notes                                          |
 |---------|----------------------|--------|------------------------------------------------|
 |1.	      | 0.7.2 Fuzzer target	 | [github.com/jam-duna/jamtestnet](https://github.com/jam-duna/jamtestnet/releases)	   | |
-|2.	      | Source code | [github.com/jam-duna/jamduna](https://github.com/jam-duna/jamduna)	   | Public                      |
+|2.	      | Source code | [github.com/jam-duna/jamduna](https://github.com/jam-duna/jamduna)	   | Private, invited @PieWol and @CrackTheCode016 and @semuelle of W3F; need Fellowship sharing process |
 |3.	      | Commit history	 | [Subscan](https://assethub-polkadot.subscan.io/extrinsic?module=system&call=remark_with_event&signed=all&page=1&time_dimension=date&address=121Rs6fKm8nguHnvPfG1Cq3ctFuNAVZGRmghwkJwHpKxKjbx)	   | ...                                            |
 |4.	      | ...	                 | ...	   | ...                                            |
 |5.	      | ...	                 | ...	   | ...                                            |
